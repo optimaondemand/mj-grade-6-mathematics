@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 7.05c Defining Outliers and Their Effects on Data</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 6 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 7</div>
+        <div style="font-size: 13px; color: #666;">Collecting, Using, and Interpreting Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">7.05c</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Collecting, Using, and Interpreting Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">7.05c</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Defining Outliers and Their Effects on Data</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Data</strong>: Information collected in numbers. Think of it as a collection of facts, like how many books you read last month or the scores you got on your math tests.</p>
+<p><strong>Interquartile Range (IQR)</strong>: This is a way to see how spread out the middle part of your data is. Imagine you line up all your data from smallest to largest, then cut the list into four equal parts. The IQR is the difference between the third part (the third quartile) and the first part (the first quartile). It shows you where the "middle half" of your data lies.</p>
+<p><strong>Mean</strong>: This is what most people think of as the average. You add up all the numbers in your data and then divide by how many numbers there are. For example, if you have test scores of 80, 90, and 100, the mean would be <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJySAqNS85NQXIKMovB5J5dhYGNvpAyiY3304byMoHC1piEzQ0gIrqQzTrIwzLszOGSUHtybezxTBNH%2BRqOwBS%2BrLdvAAAAA%3D%3D" alt="fraction numerator open parentheses 80 plus 90 plus 100 close parentheses over denominator 3 end fraction equals 90" loading="lazy">.</p>
+<p><strong>Measures of Center</strong>: These are ways to find the middle or the average of your data. The mean and the median are both measures of center because they both give you a way to see what's typical for your data.</p>
+<p><strong>Measures of Variability</strong>: These help you understand how much your data changes. For example, if all your test scores are close to 90, there's not a lot of variability. But if your scores are all over the place, from 60 to 100, then there's a lot of variability. Range and interquartile range are examples of measures of variability.</p>
+<p><strong>Median</strong>: The middle number in your data when you line up all the numbers from smallest to largest. If you have an even number of data points, the median is the average of the two middle numbers. For example, in the data 2, 3, 4, 5, and 7, the median is 4.</p>
+<p><strong>Outlier</strong>: A number in your data that is much higher or much lower than most of the other numbers. It stands out because it's not like the others. For example, if most of your test scores are around 70, but you have one score of 100, that 100 might be an outlier.</p>
+<p><strong>Range</strong>: The difference between the largest number and the smallest number in your data. It shows you how spread out your numbers are. If your highest test score is 100 and your lowest is 60, the range would be 40.</p>
+<p><strong>Skewness</strong>: This tells us if our data leans more towards the high numbers or the low numbers. If most of your data is bunched up at the lower end, it's "skewed to the left." If it's bunched up at the higher end, it's "skewed to the right."</p>
+<p><strong>Statistical Measures</strong>: These are different numbers, like the mean, median, range, and others, that help us understand our data better. They can tell us what's typical, how spread out our numbers are, and whether there are any numbers that stand out a lot.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p><span>In today's lesson, we will explore an intriguing concept in the world of mathematics: outliers, also known as extreme values. Outliers are data points that stand out because they are much higher or lower than the rest of the data. These unique values can have a significant impact on statistical measures like the mean, median, and range, affecting our understanding of a data set and its graphical representation. Understanding outliers will help us become better data detectives, allowing us to interpret information more accurately and make more informed decisions based on data. Let's dive into what an outlier is, and how it affects our data, and see this in action through four examples.</span></p>
+<p><span><br>Let's look at what an outlier is and the effects it has on the measures of center, mean and median, and measure of variation, and range.</span></p>
+<p>An <strong>extreme value or outlier</strong> is a data point that significantly differs from the other data points in a set. It stands out because it is much higher or lower than the rest. Imagine you're looking at the heights of your classmates, and most are between 4 feet and 5.5 feet tall, but one friend is 6.5 feet tall. That friend's height would be an outlier because it's much taller than what's typical for your group.</p>
+<p>Outliers can occur for various reasons, such as measurement errors, unique variations, or natural deviations in data. Understanding how to identify and handle outliers is crucial in statistics because they can have significant effects on the measures of center (mean and median) and measures of variation (range) within a data set.</p>
+<h4><br>Effects of Adding an Outlier</h4>
+<ul>
+<li>
+<p><strong>Mean</strong>: The mean is sensitive to outliers. Adding an extreme value can shift the mean toward the outlier. If the outlier is much higher than the rest of the data, the mean increases; if the outlier is much lower, the mean decreases. This happens because the mean calculates the average of all data points, and an extreme value can skew this average.</p>
+</li>
+<li>
+<p><strong>Median</strong>: The median is more resistant to outliers than the mean. It might change slightly if the addition of an outlier affects the direct middle of the data set, especially if the data set size changes from even to odd or vice versa. However, the median generally provides a more stable measure of center when outliers are present.</p>
+</li>
+<li>
+<p><strong>Range</strong>: The range is directly impacted by outliers. Adding an extreme value increases the range because the range is the difference between the maximum and minimum values in the data set. An outlier expands this difference, indicating a wider spread of data.</p>
+</li>
+</ul>
+<h4>Effects of Removing an Outlier</h4>
+<ul>
+<li>
+<p><strong>Mean</strong>: Removing an outlier brings the mean closer to the central cluster of the data set. If the outlier was higher than most data points, removing it decreases the mean. Conversely, if the outlier was lower, removing it increases the mean. The mean becomes a more accurate reflection of the data set's central tendency without the outlier.</p>
+</li>
+<li>
+<p><strong>Median</strong>: Similar to adding an outlier, removing one might slightly adjust the median, especially in smaller data sets or when the data set's size changes from odd to even or vice versa. However, these changes are generally minor, as the median tends to remain a robust measure of the data set's center.</p>
+</li>
+<li>
+<p><strong>Range</strong>: Removing an outlier decreases the range, making it narrower. This is because the extreme value that was stretching the data's spread is no longer part of the calculation. The data set appears more consistent without the outlier, with a smaller difference between the highest and lowest values.</p>
+</li>
+</ul>
+<h4><br>Example 1</h4>
+<p><span>A class recorded the time (in hours) each student spent on homework over two weeks.</span></p>
+<p><span>{2.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5}</span></p>
+<p><span>Find the mean, median, and range of the data set.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAH2RQQrCMBBFryLdChnTVjGSzgnsIUpBuzAdSQPj8R1Kko0ym5%2Fw%2BI8wEx%2BmtBw%2B4bVuQ7Ok9L4BMLPhzlB8gnXuCqNU9hjvDfrwiNMsRySWXLH1IOkDoZEb7exc2bGyVmW626lMd3uV6a7OdPeish8X6kKtLSRvmnDI7QxkgPKiWv8%2F6MkVQb4UvxBpcn8BAgAA" alt="fraction numerator 2.5 plus 2 plus 2.5 plus 3 plus 3.5 plus 4 plus 4.5 plus 5 plus 5.5 plus 6 plus 6.5 over denominator 11 end fraction equals 45 over 11 equals 4.09" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTmmkzJkUJCSan5iXn5BenKuTllySWZObn2Sol5VdAwsAEolcfpga%2F7Sbk%2BYskJSSZbEaKEmwmoyjOt7Ml4HN9UDqzAwBSLC8ybgIAAA%3D%3D" alt="2 comma space 2.5 comma space 2.5 comma space 3 comma space 3.5 comma space box enclose 4 comma space 4.5 comma space 5 comma space 5.5 comma space 6 comma space 6.5 space equals space 4" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmNvpA0iY3304PyMoHi5nCxXThYkZwMVu4mAluvfogt9gBAO1h%2FyGSAAAA" alt="6.5 minus 2 equals 4.5" loading="lazy"></span></li>
+</ul>
+<p><span><br>Now, let's say we have a new student added to the class and we add the number of hours they spent on homework which was 0.5 hours.</span></p>
+<p><span>Calculate the new mean, median, and range and analyze what happened to the measures.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZGdnoA0mb3Hw7PSArHyxmChfThosZ4RXDr9cYrxh%2BvSZ4xfDrxS%2BGX68ZXjH8eg1wq9OHB7yhEUwEGiP5drZQ1WhRZILHzUSZhz20zS1hGoBpww4AdhwwokoCAAA%3D" alt="fraction numerator 2.5 plus 2 plus 2.5 plus 3 plus 3.5 plus 4 plus 4.5 plus 5 plus 5.5 plus 6 plus 6.5 plus 0.5 over denominator 12 end fraction equals fraction numerator 45.5 over denominator 12 end fraction equals 3.79" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAJ2S0QqCMBSGX0UWdFM406ysOeg%2BH2KJZeB2Qgfz8RvmjErI0802fr7%2FO3AYk0KXXisr1aSk1Pq%2Bp9QY45vIh%2FpKV0myo5lFuiM7Ec6k4gGj9mQSuG9f0GXxkC37DPh81h6Dw4CEGORPM6oW%2FUIKlVfQFJ4CLfQNVErO0JKPLmrk%2BolQp55EY4egEJR5g0HGzG8w8HTccqlFbq8azIRdL76X64qhC3rha%2BC4dBu7gv3t%2FAF0HQ%2FoHAMAAA%3D%3D" alt="0.5 comma space 2 comma space 2.5 comma space 2.5 comma space 3 comma space box enclose 3.5 comma space 4 end enclose comma space 4.5 comma space 5 comma space 5.5 comma space 6 comma space 6.5 space equals space fraction numerator 3.5 plus 4 over denominator 2 end fraction equals 3.75" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmNvpA0iY3304PyMoHi5nCxXThYgZ41dnCxaDm6YPcYgcAGCPMQ5IAAAA%3D" alt="6.5 minus 0.5 equals 6" loading="lazy"></span></li>
+<li><span>Adding a new minimum decreases the mean and increases the range, showing a wider spread of data. The median shifts a little, indicating a slight adjustment towards the center of the new data set.</span></li>
+</ul>
+<p><span>The measures of center, mean and median, both decreased when an extreme minimum was introduced by pulling down the value of the center. Notice that the mean was more affected than the median. Outliers have a greater effect on the mean than the median.</span></p>
+<h4><br>The Impact of Extreme Values on the Mean and Median</h4>
+<ul>
+<li><strong>Mean is More Sensitive</strong>: Adding an extreme minimum or maximum (outlier) will have a substantial impact on the mean. Since the mean takes into account the value of each data point, an extremely high or low value can skew it significantly towards the outlier.</li>
+<li><strong>Median is More Stable</strong>: The median, being the middle value of an ordered data set, is less affected by outliers. It might shift slightly if the addition of the outlier changes the order in a way that affects the middle value(s), but this impact is generally minimal compared to the mean.</li>
+</ul>
+<h4>Effects on Range</h4>
+<ul>
+<li><strong>Range Increases</strong>: The addition of an extreme minimum or maximum directly increases the range since the range is the difference between the highest and lowest values in the data set. This means the data's spread becomes wider, indicating greater variation.</li>
+</ul>
+<h4>Which Measure of Center is Most Affected?</h4>
+<ul>
+<li><strong>Mean vs. Median with Outliers</strong>: When it comes to adding an extreme value, the mean is the measure of center most affected by outliers. This is because the mean averages all data points, so any extremely high or low value shifts the average more than the median, which only considers the middle position. The median's position might adjust slightly with the inclusion of new data, but its value remains a more stable center measure in the presence of outliers.</li>
+</ul>
+<p><br>If adding an extreme minimum brought the measures of center down, what would adding an extreme maximum do to the measures of center?</p>
+<p>Whether adding a minimum or maximum, the range will always increase since the overall spread increases when adding a new data point on the lower or upper end.</p>
+<h4><br>Example 2</h4>
+<p>Using the same situation and data set:</p>
+<p><span>A class recorded the time (in hours) each student spent on homework over two weeks.</span></p>
+<p><span>{2.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5}</span></p>
+<p><span>Find the mean, median, and range of the data set.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAH2RQQrCMBBFryLdChnTVjGSzgnsIUpBuzAdSQPj8R1Kko0ym5%2Fw%2BI8wEx%2BmtBw%2B4bVuQ7Ok9L4BMLPhzlB8gnXuCqNU9hjvDfrwiNMsRySWXLH1IOkDoZEb7exc2bGyVmW626lMd3uV6a7OdPeish8X6kKtLSRvmnDI7QxkgPKiWv8%2F6MkVQb4UvxBpcn8BAgAA" alt="fraction numerator 2.5 plus 2 plus 2.5 plus 3 plus 3.5 plus 4 plus 4.5 plus 5 plus 5.5 plus 6 plus 6.5 over denominator 11 end fraction equals 45 over 11 equals 4.09" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTmmkzJkUJCSan5iXn5BenKuTllySWZObn2Sol5VdAwsAEolcfpga%2F7Sbk%2BYskJSSZbEaKEmwmoyjOt7Ml4HN9UDqzAwBSLC8ybgIAAA%3D%3D" alt="2 comma space 2.5 comma space 2.5 comma space 3 comma space 3.5 comma space box enclose 4 comma space 4.5 comma space 5 comma space 5.5 comma space 6 comma space 6.5 space equals space 4" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmNvpA0iY3304PyMoHi5nCxXThYkZwMVu4mAluvfogt9gBAO1h%2FyGSAAAA" alt="6.5 minus 2 equals 4.5" loading="lazy"></span></li>
+</ul>
+<p><span><br>Now, let's say we have a new student added to the class and we add the number of hours they spent on homework which was 12 hours.</span></p>
+<p><span>Calculate the new mean, median, and range and analyze what happened to the measures.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAH2RQQrCMBBFryLdChnaWmslnRPYQxRBuzAdiYHx%2BA4lxo38zSQ8%2FhvIjw9zWnbv8FhfY7Wk9DwTqarT1km8Uz0MJ5osso3pUrEPtzhf7YiiNlduPNn0QdjZTTbWFbYvrIEMuy1k2D1Ahl3MsHuEDLt1LoZKyz%2BS6xceczwD29TnVTD%2B%2F%2FV99xXsn%2FkD%2BABnkRYCAAA%3D" alt="fraction numerator 2.5 plus 2 plus 2.5 plus 3 plus 3.5 plus 4 plus 4.5 plus 5 plus 5.5 plus 6 plus 6.5 plus 12 over denominator 12 end fraction equals 57 over 12 equals 4.75" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTmmkzJkUJCSan5iXn5BenKuTllySWZObn2Sol5VdAwsCEsJUmuK3UhxmN3wQivG5KXoiZkaKEJJMNEXGIIpNvZ4tdS1pRYjKQKsovRws1beJCEqbRCCYANRBhIXYDjOAmAJO2HQAlv39dCQMAAA%3D%3D" alt="2 comma space 2.5 comma space 2.5 comma space 3 comma space 3.5 comma space box enclose 4 comma space 4.5 end enclose comma space 5 comma space 5.5 comma space 6 comma space 6.5 comma space 12 space equals space fraction numerator 4 plus 4.5 over denominator 2 end fraction equals 4.25" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXaGRjb6QMomN99OF8jKBwsixGzhYoYGEEF9kC12AMlt%2BD5sAAAA" alt="12 minus 2 equals 10" loading="lazy"></span></li>
+<li><span>Adding a new maximum significantly increases the mean and the range, indicating a broader spread of values. The median remains more stable, showing its resistance to the effect of outliers.</span></li>
+</ul>
+<p><span>The measures of center, mean and median, both increased when an extreme maximum was introduced by pulling up the value of the center. Notice that the mean was more affected than the median. Outliers have a greater effect on the mean than the median.</span></p>
+<p><span><br>Now, let's explore what removing outliers does to the data set. Think about if adding a minimum brought the measures of centers down, what would happen to them if we removed that minimum?</span></p>
+<p><span>If when we added a maximum, the measures of center increased, what would happen if we removed that maximum?</span></p>
+<p><span>When we added an extreme value whether on the lower or upper end, the range always increased since the spread of data increased. What would happen to the range and spread if we remove that extreme value?</span></p>
+<h4>Removing an Extreme Maximum Value</h4>
+<ul>
+<li>
+<p><strong>Mean's Decline</strong>: Since the mean averages all data points, taking away the highest value decreases the overall sum used in the calculation, thus lowering the mean. This impact is more pronounced with the removal of an extreme maximum because it reduces the total sum significantly in relation to the count.</p>
+</li>
+<li>
+<p><strong>Median's Shift</strong>: The median might slightly decrease as well, especially if the maximum removal changes the data's middle values' organization. Like with removing the minimum, the effect on the median is subtler compared to the mean because the median focuses on the middle of the dataset, which may not be as directly impacted by changes at the extremes.</p>
+</li>
+<li>
+<p><strong>Range Adjustment</strong>: The range of a data set is determined by the difference between the maximum and minimum values. When you remove an extreme value, whether it's the highest (maximum) or the lowest (minimum) value in the set, the range will likely decrease, assuming that the removed value was an outlier significantly different from the other data points.</p>
+</li>
+<li>
+<p><strong>Specifics of Change</strong>:</p>
+<ul>
+<li><strong>Removing the Maximum</strong>: If the highest value is removed and there's no identical value to take its place, the next highest value becomes the new maximum. This typically reduces the range, as the distance between the new maximum and the existing minimum is smaller.</li>
+<li><strong>Removing the Minimum</strong>: Similarly, eliminating the lowest value in your data set means the next lowest value steps up as the new minimum. If this new minimum is closer to the maximum than the original minimum was, the range decreases.</li>
+</ul>
+</li>
+</ul>
+<p><span><br>Let's look at some examples.</span></p>
+<h4><span>Example 3</span></h4>
+<p><span>Imagine a meteorologist is studying the daily rainfall (in inches) in a particular region over two weeks. The recorded data are as follows: 0.1, 1.5, 2.8, 3.0, 2.2, 1.5, 1.7, 1.8, 2.0, 2.2, 2.5.</span></p>
+<p><span>Find the mean, median, and range of the data set.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZGdjoA0mb3Hw7PSArHyxmCBfTxiKGUGeKRZ0RFnUWWNQZY1FnQKR5RhS4D5s6cyLVYfMHNvdR4g9s6qD%2B0IdHmqEhTAQam%2Fl2tlDVaNFrhM0fxiSYhz0kLE1gGoDpyg4A1px%2BaoYCAAA%3D" alt="fraction numerator 0.1 plus 1.5 plus 2.8 plus 3.0 plus 2.2 plus 1.5 plus 1.7 plus 1.8 plus 2.0 plus 2.2 plus 2.5 over denominator 11 end fraction equals fraction numerator 21.3 over denominator 11 end fraction equals 1.94" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYGNvpA0iY3304PyMoHixnCxXSgYvl2asoVjgbWWJQgtJnSVZs5edosCGlLzUvOyS9OVcjLL0ksyczPs1VKyq%2BAhJURFvOg4acP04ffRdhMMCLsESpqIyK0sWkjGGx5dsa4Qwddcb6dLSmWw8MYmG7tAF6e%2B%2FTmAgAA" alt="0.1 comma space 1.5 comma space 1.5 comma space 1.7 comma space 1.8 comma space box enclose 2.0 end enclose comma space 2.2 comma space 2.2 comma space 2.5 comma space 2.8 comma space 3.0 space equals space 2.0" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbGNvpA0iY3304PyMoHixnAxXSxiCHUGcLFbOFiRljUWULE9EHuswMAEAR%2BVKYAAAA%3D" alt="3.0 minus 0.1 equals 2.9" loading="lazy"></span></li>
+</ul>
+<p><span><br>Now, We want to look at the set of data without the one day where there was little to no rain since most of the days had a good amount of rain. This will allow us to analyze the rainfall for what was more of a norm for the majority of the days. We remove the 0.1 rainfall from the data set.</span></p>
+<p><span>Calculate the new mean, median, and range and analyze what happened to the measures.</span></p>
+<ul>
+<li><span>Mean = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZGdroA0mb3Hw7PSArHyxmChfThosZYVFngUWdMRZ1BkSaZ4RFHbHuw6bOnEh12PyBzX2U%2BAObOqg%2F9BGRYQATgcZSvp0tVDVatBlh84cRCeZhd5Eh3AhgerEDACs9AAVeAgAA" alt="fraction numerator 1.5 plus 2.8 plus 3.0 plus 2.2 plus 1.5 plus 1.7 plus 1.8 plus 2.0 plus 2.2 plus 2.5 over denominator 10 end fraction equals fraction numerator 21.2 over denominator 10 end fraction equals 2.12" loading="lazy"></span></li>
+<li><span>Median = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAK1S0QqCQBD8FTHopXA1ibTOhd7zI0wsA%2B829ODu8ztMjeJIk172lmFmdm9YxjNZOppXokncUsr7HkAp5anQo%2FoKQRxHkBpKW9KTi4wLDBiYyjihZzpqse2ArTuMcLnQR%2F8wUP4o282TRWOyQuQVNYUjSGbyRiJxz6Sfn95Y%2FPzxNWyyDoN%2B3GyHX2UT0rbJRmMTGH5N541MmNhdLnWWm6cmNSHw1bSEP8ygH%2FJawm4Q9Hxz9vgAlvK1tiUDAAA%3D" alt="1.5 comma space 1.5 comma space 1.7 comma space 1.8 comma space box enclose 2.0 comma space 2.2 end enclose comma space 2.2 comma space 2.5 comma space 2.8 comma space 3.0 space equals space fraction numerator 2.0 plus 2.2 over denominator 2 end fraction equals 2.1" loading="lazy"></span></li>
+<li><span>Range = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbGNvpA0iY3304PyMoHixnAxXThYoZY1JnCxWyJUacPcp8dALWXDEKmAAAA" alt="3.0 minus 1.5 equals 1.5" loading="lazy"></span></li>
+<li><span>Removing the extreme minimum rainfall increased both the mean and median, reflecting a higher central tendency of daily rainfall without the outlier.</span></li>
+</ul>
+<p><span>The measures of center, mean and median, both increased when an extreme minimum was removed by pulling up the value of the center. By removing the minimum, we focused on the higher values. Notice that the mean was more affected than the median. Outliers have a greater effect on the mean than the median.</span></p>
+<p><span>The range decreased since we shrunk our spread by removing the minimum.</span></p>
+<h4><span><br>Example 4</span></h4>
+<p><span>A scientist records the daily high temperatures (in degrees Fahrenheit) during a summer month: {84, 82, 83, 94, 92, 91, 84, 86, 91, 90, 88, 89, 93, 94, 90, 110}.</span></p>
+<p><span>Find the mean, median, and range of the data set.</span></p>
+<ul>
+<li><span>Mean = <img class="equation_image" title="\dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90+110}{16}=\dfrac{1441}{16}=90.0625 \approx 90.1" src="https://optimadomi.instructure.com/equation_images/%255Cdfrac%257B84%252B82%252B83%252B94%252B92%252B91%252B84%252B86%252B91%252B90%252B88%252B89%252B93%252B94%252B90%252B110%257D%257B16%257D%253D%255Cdfrac%257B1441%257D%257B16%257D%253D90.0625%2520%255Capprox%252090.1?scale=1" alt="LaTeX: \dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90+110}{16}=\dfrac{1441}{16}=90.0625 \approx 90.1" data-equation-content="\dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90+110}{16}=\dfrac{1441}{16}=90.0625 \approx 90.1" data-ignore-a11y-check="" loading="lazy"><br></span></li>
+<li><span>Median = <img class="equation_image" title="82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90,\; 90},\; 91,\; 91,\; 92,\; 93,\; 94,\; 94,\; 110 \\
+\text{median}=\dfrac{90+90}{2} = 90" src="https://optimadomi.instructure.com/equation_images/82%252C%255C%253B%252083%252C%255C%253B%252084%252C%255C%253B%252084%252C%255C%253B%252086%252C%255C%253B%252088%252C%255C%253B%252089%252C%255C%253B%2520%255Cboxed%257B90%252C%255C%253B%252090%257D%252C%255C%253B%252091%252C%255C%253B%252091%252C%255C%253B%252092%252C%255C%253B%252093%252C%255C%253B%252094%252C%255C%253B%252094%252C%255C%253B%2520110%2520%255C%255C%250A%255Ctext%257Bmedian%257D%253D%255Cdfrac%257B90%252B90%257D%257B2%257D%2520%253D%252090?scale=1" alt="LaTeX: 82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90,\; 90},\; 91,\; 91,\; 92,\; 93,\; 94,\; 94,\; 110 \\
+\text{median}=\dfrac{90+90}{2} = 90" data-equation-content="82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90,\; 90},\; 91,\; 91,\; 92,\; 93,\; 94,\; 94,\; 110 \\
+\text{median}=\dfrac{90+90}{2} = 90" data-ignore-a11y-check="" loading="lazy"><br><br></span></li>
+<li><span>Range = \(110-82=28\)</span></li>
+</ul>
+<p><span><br>One of the days had a record high, but was not the norm for the temperatures for that month so far. The scientist is going to remove that record high to analyze the data of the normal temperatures for the month. Find the mean, median, and range of the data set when the temperature 110 is removed from the set.</span></p>
+<ul>
+<li><span>Mean = <img class="equation_image" title="\dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90}{15}=\dfrac{1331}{15}=88.7333... \approx 88.7" src="https://optimadomi.instructure.com/equation_images/%255Cdfrac%257B84%252B82%252B83%252B94%252B92%252B91%252B84%252B86%252B91%252B90%252B88%252B89%252B93%252B94%252B90%257D%257B15%257D%253D%255Cdfrac%257B1331%257D%257B15%257D%253D88.7333...%2520%255Capprox%252088.7?scale=1" alt="LaTeX: \dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90}{15}=\dfrac{1331}{15}=88.7333... \approx 88.7" data-equation-content="\dfrac{84+82+83+94+92+91+84+86+91+90+88+89+93+94+90}{15}=\dfrac{1331}{15}=88.7333... \approx 88.7" data-ignore-a11y-check="" loading="lazy"></span><br><br></li>
+<li><span>Median = <img class="equation_image" title="82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90},\; 90,\; 91,\; 91,\; 92,\; 93,\; 94,\; 94 \\
+\text{median} =90" src="https://optimadomi.instructure.com/equation_images/82%252C%255C%253B%252083%252C%255C%253B%252084%252C%255C%253B%252084%252C%255C%253B%252086%252C%255C%253B%252088%252C%255C%253B%252089%252C%255C%253B%2520%255Cboxed%257B90%257D%252C%255C%253B%252090%252C%255C%253B%252091%252C%255C%253B%252091%252C%255C%253B%252092%252C%255C%253B%252093%252C%255C%253B%252094%252C%255C%253B%252094%2520%255C%255C%250A%255Ctext%257Bmedian%257D%2520%253D90?scale=1" alt="LaTeX: 82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90},\; 90,\; 91,\; 91,\; 92,\; 93,\; 94,\; 94 \\
+\text{median} =90" data-equation-content="82,\; 83,\; 84,\; 84,\; 86,\; 88,\; 89,\; \boxed{90},\; 90,\; 91,\; 91,\; 92,\; 93,\; 94,\; 94 \\
+\text{median} =90" data-ignore-a11y-check="" loading="lazy"></span><br><br></li>
+<li><span>Range = \(94-82=12\)</span></li>
+<li><span>Removing the extreme maximum decreased the mean, reflecting a lower central tendency of daily temperatures without the outlier. Notice that the median value did not change. However, if you look at how to find the median, it shifts down. Since there were two values of 90 in the middle though, it did not change the final value of the median.</span></li>
+</ul>
+<p><span>The measures of center, mean and median, both generally decreased when an extreme maximum was removed by pulling down the value of the center. By removing the maximum, we focused on the lower values. Notice that the mean was more affected than the median. Outliers have a greater effect on the mean than the median.</span></p>
+<p><span>The range decreased since we shrunk our spread by removing the minimum.</span></p>
+<h4><span><br>Conclusion</span></h4>
+<p><span>Through these examples, we've seen how adding or removing outliers can affect our statistical measures and our overall understanding of a data set. Outliers can dramatically influence the mean and range, indicating the spread and central tendency of data, while the median remains a more robust measure of center, less influenced by extreme values. Understanding these effects allows us to interpret data more accurately and make better-informed decisions.</span></p>
+<p><span>Understanding outliers is key to accurately interpreting data. By recognizing how they affect statistical measures, we can make better decisions about how to analyze and present data, ensuring that our conclusions are based on the most representative information possible. Removing the extreme maximum temperature decreased the mean, showing a lower average daily high temperature without the outlier. The median stayed consistent, underscoring its resilience to changes in extreme values. The range decreased, indicating a narrower spread of temperatures.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. What impact do outliers have on measures of central tendency and spread?</p>
+<p>2. What are the pros and cons of removing outliers from a data set?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 6 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">7.05c &middot; Defining Outliers and Their Effects on Data</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

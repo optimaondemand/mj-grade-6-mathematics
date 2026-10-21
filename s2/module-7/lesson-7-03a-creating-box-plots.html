@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 7.03a Creating Box Plots</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 6 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 7</div>
+        <div style="font-size: 13px; color: #666;">Collecting, Using, and Interpreting Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">7.03a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Collecting, Using, and Interpreting Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">7.03a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Creating Box Plots</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Box Plot:</strong><span> A graphical representation of data that shows the distribution based on a five-number summary. It includes a box that represents the interquartile range and lines (whiskers) that extend to the minimum and maximum values.</span></p>
+<p><span><strong>Five Number Summary:</strong> A set of descriptive statistics that provide information about a dataset. It includes the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum.</span></p>
+<p><span><strong>Frequency:</strong> The number of times a data point appears in a dataset. In a histogram, it's represented by the height of the bars.</span></p>
+<p><span><strong>Histogram:</strong> A type of graph that shows the frequency of data within equal intervals or bins. It's used to visualize the distribution of numerical data.</span></p>
+<p><span><strong>Interquartile Range (IQR):</strong> The difference between the third quartile (Q3) and the first quartile (Q1) in a dataset. It measures the spread of the middle 50% of the data.</span></p>
+<p><span><strong>Intervals (Bins):</strong> The equal divisions or ranges of values in a histogram. Each bin groups a range of data, showing how many data points fall within that range.</span></p>
+<p><span><strong>Minimum:</strong> The smallest value in a dataset.</span></p>
+<p><span><strong>Maximum:</strong> The largest value in a dataset.</span></p>
+<p><span><strong>Numerical Data:</strong> Data that consists of numbers. It can be discrete (countable) or continuous (measurable).</span></p>
+<p><span><strong>Outlier:</strong> A data point that is significantly different from the other data points in a dataset. Outliers can be much higher or lower than the rest of the data.</span></p>
+<p><span><strong>Quartiles:</strong> Values that divide a dataset into four equal parts. The first quartile (Q1) is the median of the lower half of the data, the second quartile (Q2) is the median of the dataset, and the third quartile (Q3) is the median of the upper half of the data.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will be exploring how to use a set of numerical data to create a five-number summary and use that summary to draw a box plot representation of the data set. We will discuss what the box plot shows us and can tell us about the data set. <span>Box plots are like treasure maps; they show us the distribution of a data set at a glance, highlighting its central values and spread. To create one, we use something called the </span><strong>five-number summary</strong><span>. Let's dive in and discover how to make and interpret box plots!</span></p>
+<p><span><br>Let's begin by looking at what makes a box plot.</span></p>
+<h4><span style="color: #843fa1;"><strong>What is a Box Plot?</strong></span></h4>
+<p>A box plot is a graphical representation of a data set that shows the distribution of the data across five main points: the minimum, the first quartile (Q1), the median, the third quartile (Q3), and the maximum. These five points make up the five-number summary. Here’s what each part tells us:</p>
+<ul>
+<li><strong>Minimum</strong>: The smallest number in the data set.</li>
+<li><strong>Q1 (First Quartile)</strong>: The median of the lower half of the data set. This is the 25th percentile.</li>
+<li><strong>Median</strong>: The middle value of the data set. This is the 50th percentile.</li>
+<li><strong>Q3 (Third Quartile)</strong>: The median of the upper half of the data set. This is the 75th percentile.</li>
+<li><strong>Maximum</strong>: The largest number in the data set.</li>
+</ul>
+<p>The space between Q1 and Q3 is called the <strong>interquartile range (IQR)</strong>, and it represents the middle 50% of the data. The longer this box, the more spread out the middle 50% is.</p>
+<h4><br><span style="color: #843fa1;"><strong>How to Create a Box Plot</strong></span></h4>
+<ol>
+<li><strong>Draw a Number Line</strong>: This should be long enough to include your maximum and minimum values.</li>
+<li><strong>Plot the Five-Number Summary</strong>: Mark the minimum, Q1, median, Q3, and maximum on the number line.</li>
+<li><strong>Create the Box</strong>: Draw a box from Q1 to Q3 with a line in the middle for the median.</li>
+<li><strong>Add the Whiskers</strong>: Draw lines ("whiskers") from the ends of the box to the minimum and maximum values.</li>
+</ol>
+<p><br>Now, let's look at a few examples of sets of data and create a box plot to represent the data.</p>
+<h4><span style="color: #e67e23;">Example 1</span></h4>
+<p><span>A study tracks the average daily screen time (in hours) of teenagers over two weeks.</span></p>
+<p><span>The set of data showing the recorded times is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aal5yakpCvkFqXm2StVKCsk5%2BcWptkq1ILmi%2FHIgmWdnYaMPJG1y8%2B10gKx8sJgZFjEjuJgeXMyUSL1mROo1J1KdERYxYyL1mmARwxYG5hSIkegWfUhk6EPjC8QCRqEdACk90SnxAQAA" alt="open curly brackets 8 comma 6 comma 2.5 comma 6 comma 6.5 comma 7.5 comma 2 comma 3.5 comma 4 comma 8 comma 7 comma 7 comma 7 comma 3.5 comma 4 close curly brackets" loading="lazy">.</span></p>
+<p><span><span style="color: #e03e2d;"><strong>Solution:</strong></span></span></p>
+<ul>
+<li><span>To create the box plot, we need to first calculate the values for the five-number summary.</span></li>
+<li><span>We need to find the minimum and maximum, the median, and quartiles 1 and 3.</span>
+<ul>
+<li><span>Minimum: 2</span></li>
+<li><span>Maximum: 8</span></li>
+<li><span>Median: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTwtqM6arNhCpKzAgpSc1LzskvTlXIyy9JLMnMz7NVSsqvUELWqw9TQ6xNJHnTnP5KSHKfBSlKUCTy7WwJhJU%2BKH3bAQCTATvq5gIAAA%3D%3D" alt="2 comma space 2.5 comma space 3.5 comma space 3.5 comma space 4 comma space 4 comma space 6 comma space box enclose 6 comma space 6.5 comma space 7 comma space 7 comma space 7 comma space 7.5 comma space 8 comma space 8 space equals space 6" loading="lazy"></span></li>
+<li><span>To find Quartile 1, we need to find the median of the lower half of the data. Since we only have 1 median, it will be the last number in the lower half of the data.</span></li>
+<li><span>So, we take all the data values from the minimum to the median (including the median) in order. Then, we find the middle number of those data values.</span></li>
+<li><span>Quartile 1 (Q1): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTwtqMydGWmpeck1%2BcqpCXX5JYkpmfZ6uUlF9Skp%2BrRL6ReXYmECX6MNOJUo1PiRkpSlAk8u1ssetIK0pMBlJF%2BeVE%2BFQb02swjUYwAaiBCAuxG2puCtMATBR2AOSM9H1DAgAA" alt="2 comma space 2.5 comma space 3.5 comma space bottom enclose 3.5 comma space 4 end enclose comma space 4 comma space 6 comma space 6 space equals space fraction numerator 3.5 plus 4 over denominator 2 end fraction equals 3.75" loading="lazy"></span></li>
+<li><span>To find quartile 3, we will find the median of the upper half of the data this time.</span></li>
+<li><span>So, we take all the data values from the median to the maximum (including the median) in order. Then, we find the middle number of those data values.</span></li>
+<li><span>Quartile 3 (Q3): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTwtrMCSlJzUvOyS9OVcjLL0ksyczPs1VKyi8pyc9VIk47XIk%2BzCRi3UOSNyxIUYIikW9nS9DlwJiwAwCNlVSZuAEAAA%3D%3D" alt="6 comma space 6.5 comma space 7 comma space bottom enclose 7 comma space 7 end enclose comma space 7.5 comma space 8 comma space 8 space equals space 7" loading="lazy"></span></li>
+</ul>
+</li>
+<li><span>Plot the numbers representing the five-number summary on a number line.</span></li>
+<li><span>Then create the box starting at Q1 and going to Q3. </span></li>
+<li><span>Draw a vertical line through the median that shows the "middle" of the box.</span></li>
+<li><span>Finally, draw the "whiskers" by drawing a line that connects the minimum to the beginning of the box</span></li>
+<li><span>Then draw another line that connects the maximum to the end of the box.</span></li>
+<li><span>Some additional measures we can calculate for the data are the range and interquartile range (IQR).</span>
+<ul>
+<li><span>Range = Maximum - Minimum = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYWNvpA0iY3304XyMoHixnBxdSUKxwNrKES%2BXa2cBaKRJ6dGUSHPsgFdgDjbejgiAAAAA%3D%3D" alt="8 minus 2 space equals space 6" loading="lazy"></span></li>
+<li><span>To find the Interquartile Range, we find the difference between Q1 and Q3.</span></li>
+<li><span>Interquartile Range (IQR) = Q3 - Q1 = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbmNvpA0iY3304XyMoHixnDxfTgYuamcEE15QpHA2uoTL6dLZyFIoHdGCOoMfogt9oBALXJa3OyAAAA" alt="7 minus 3.75 space equals space 3.25" loading="lazy"></span>
+<ul>
+<li><span>The IQR represents the variation for the middle 50% of the data.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span><img id="304634" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L03aIMGBoxPlot1.png" alt="MAT06M07L03aIMGBoxPlot1.png" width="597" height="117" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/304634" data-api-returntype="File" loading="lazy"></span></p>
+<h4><br><span style="color: #e67e23;">Example 2</span></h4>
+<p><span>A meteorologist records the daily rainfall (in inches) over 17 days.</span></p>
+<p><span>The set of data showing the recorded inches of rainfall is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aal5yakpCvkFqXm2StVKCsk5%2BcWptkq1ILmi%2FHIgmWdnaKMPJG1y8%2B30gKx8sJg5XEwHLmZMpDoDLOossagzxSJmiFcMYZ4FkeooMQ%2Bbf02IVEesvdjCD5s6bGFlQIFebP4gNvywxS80DPQhiUofmu5ALGBStAMAt3fl%2FrkCAAA%3D" alt="open curly brackets 1.7 comma 3.7 comma 0.9 comma 5 comma 1 comma 1.8 comma 1.1 comma 1.8 comma 3.4 comma 3.1 comma 1.7 comma 1.5 comma 0 comma 1.5 comma 4 comma 1.1 comma 0.3 close curly brackets" loading="lazy">.</span></p>
+<p><span><span style="color: #e03e2d;"><strong>Solution:</strong></span></span></p>
+<ul>
+<li><span>To create the box plot, we need to first calculate the values for the five-number summary.</span></li>
+<li><span>We need to find the minimum and maximum, the median, and quartiles 1 and 3.</span>
+<ul>
+<li><span>Minimum: 0</span></li>
+<li><span>Maximum: 5</span></li>
+<li><span>Median: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFj8rRZEtZmSIoSvQHSZkojbal5yTn5xakKefkliSWZ%2BXm2Skn5FUo4zTOHiOnD9JHuInPyPGJBM23GWLQREUnYtJmQp42IICHCZERUo0jk29ni0KEAyr1liUWZiXkloGjPSVFCeBybpB4%2BnfCUAZSyAwCD2yyLGQQAAA%3D%3D" alt="0 comma space 0.3 comma space 0.9 comma space 1 comma space 1.1 comma space 1.1 comma space 1.5 comma space 1.5 comma space box enclose 1.7 end enclose comma space 1.7 comma space 1.8 comma space 1.8 comma space 3.1 comma space 3.4 comma space 3.7 comma space 4 comma space 5 space equals space bold 1 bold. bold 7" loading="lazy"></span></li>
+<li><span>Quartile 1 (Q1): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFj8rRZEtZmSEhJal5yTn5xqkJefkliSWZ%2Bnq1SUn6FEppePXTz9GH6iLUdwwRStZnSVZs5XAxFcb6dLQ5TFECppSyxKDMxrwQUhDkpSgiDsUnqEaFTHyRlBwDqhSg%2FiQIAAA%3D%3D" alt="0 comma space 0.3 comma space 0.9 comma space 1 comma space box enclose 1.1 end enclose comma space 1.1 comma space 1.5 comma space 1.5 comma space 1.7 space equals space bold 1 bold. bold 1" loading="lazy"></span></li>
+<li><span>Quartile 3 (Q3): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALVS3QrCIBR%2BFTHoKrSxoq2c0H17CKvRBtMTm6SPn1vLCGztom4O8v2dH2RS6BJZWas2w6XW1y2lxhhiYgLNhUZpmtDcSfqSHzBnUvGIUVeZBE7cC3ps47HFgAGfz%2Bx%2BufOSH9qSP9kKdaqhLZACLXQFKsNHsI%2Bl40De0IM%2BfeMThRJW3xcJ2SacbULy2kveCODZBwfqfstNNJVQujtNfcav8UIkGXP66zmK3wG4oH4PiQIAAA%3D%3D" alt="1.7 comma space 1.7 comma space 1.8 comma space 1.8 comma space box enclose 3.1 end enclose comma space 3.4 comma space 3.7 comma space 4 comma space 5 space equals space bold 3 bold. bold 1" loading="lazy"></span></li>
+</ul>
+</li>
+<li><span>Plot the numbers representing the five-number summary on a number line.</span></li>
+<li><span>Then create the box starting at Q1 and going to Q3. A vertical line through the median shows the "middle" of the box.</span></li>
+<li><span>Finally draw the "whiskers" connecting the minimum to the beginning of the box and the maximum to the end of the box.</span></li>
+<li><span>Some additional measures we can calculate for the data are the range and interquartile range (IQR).</span>
+<ul>
+<li><span>Range = Maximum - Minimum = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXamNvpA0iY3304XyMoHixnAxdSUKxwNrKES%2BXa2cBaKBNwUfZAL7ABj9DrQiAAAAA%3D%3D" alt="5 minus 0 space equals space 5" loading="lazy"></span></li>
+<li><span>Interquartile Range (IQR) = Q3 - Q1 = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbGNvpA0iY3304PyMoHixnCxXSxiGFTp6Zc4WhgDZXIt7OFs1Ak8uyMIDr0QS61AwBj45y0sAAAAA%3D%3D" alt="3.1 minus 1.1 space equals space 2" loading="lazy"></span>
+<ul>
+<li><span>The IQR represents the variation for the middle 50% of the data.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span><img id="304645" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L03aIMGBoxPlot2.png" alt="MAT06M07L03aIMGBoxPlot2.png" width="1215" height="120" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/304645" data-api-returntype="File" loading="lazy"></span></p>
+<h4><br><span style="color: #e67e23;">Example 3</span></h4>
+<p><span>A book club records the number of books each member read in the past year.</span></p>
+<p><span>The set of data showing the number of books read by each member is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAI2QwQqDMAyGX6X0PMxacdPR9gnmQ4jr5sE2ooUMxt7d6jzmsEsSvvwkP78JXRrEO4xxsXJIaboBEFFBZYHzC1TT1NBmyV7au3QmPH3s%2FUPg5KOVHyn6ERdv5XfbzUi5Rqe1gdxMQHfKE%2B6wPDNQ1wxUF07JQf7m%2F5DzyVrSFefzyikVA6vjO%2FwigiPFbcrBuhWCC92HhwEAAA%3D%3D" alt="open curly brackets 22 comma 30 comma 28 comma 16 comma 26 comma 30 comma 20 comma 20 comma 22 comma 28 comma 25 comma 17 comma 21 comma 50 close curly brackets" loading="lazy">.</span></p>
+<p><span><span style="color: #e03e2d;"><strong>Solution:</strong></span></span></p>
+<ul>
+<li><span>To create the box plot, we need to first calculate the values for the five-number summary.</span></li>
+<li><span>We need to find the minimum and maximum, the median, and quartiles 1 and 3.</span>
+<ul>
+<li><span>Minimum: 16</span></li>
+<li><span>Maximum: 50</span></li>
+<li><span>Median: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAK2Syw6CMBBFf4XUxI2G8ggKCk3cy0dUfEBCO6Y0ls%2B3II9oiHTBpjPtnHub3DZmVOZWzUpeJSiX8nnAWCllK98G8cBuFIU41Ui7pGdEYsaJu4uxLjEDstUdtN16VZ%2BcY7fVzH6e8ZyFGNeA8eaYG89KqG4WB0llATxBF5ASGDLUayb4MLj3msENYvTCZRjfIEYTJhiZrwmQZFpyFzTTRYD6jXEzkduA9QedfLTnVvNjX1QUlMvmicorIp7fu05N7X%2FS4Wo9Im%2Fvlsi7DgMAAA%3D%3D" alt="16 comma space 17 comma space 20 comma space 20 comma space 21 comma space 22 comma space bottom enclose 22 comma space 25 end enclose comma space 26 comma space 28 comma space 28 comma space 30 comma space 30 comma space 50 space equals space fraction numerator 22 plus 25 over denominator 2 end fraction equals bold 23 bold. bold 5" loading="lazy"></span></li>
+<li><span>Quartile 1 (Q1): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXaGZjb6QMomN99OB8jKB7PUlCscDayhXKAac8JqjAwIqUnNS87JL05VyMsvSSzJzM%2BzVUrKr1BC0awPU0TALkMi3GNEkhoUmXw7WxxaFEBBXJZYlJmYVwJyf06KEpLjgXJ2AKwjngKFAQAA" alt="16 comma space 17 comma space 20 comma space box enclose 20 comma space 21 comma space 22 comma space 22 space equals space bold 20" loading="lazy"></span></li>
+<li><span>Quartile 3 (Q3): <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGpjb6QMomN99OB8jKB7PUlCscDayhXKAaMyLUWBBSk5qXnJNfnKqQl1%2BSWJKZn2erlJRfoYSiWR%2BmCL9dxgaE3UOMGlOEGhSZfDtbHFoUQEFclliUmZhXAnJ%2FTooSkuOBcnYAR9sH8YUBAAA%3D" alt="25 comma space 26 comma space 28 comma space box enclose 28 comma space 30 comma space 30 comma space 50 space equals space bold 28" loading="lazy"></span></li>
+</ul>
+</li>
+<li><span>Plot the numbers representing the five-number summary on a number line.</span></li>
+<li><span>Then create the box starting at Q1 and going to Q3. A vertical line through the median shows the "middle" of the box.</span></li>
+<li><span>Finally, draw the "whiskers" connecting the minimum to the beginning of the box and the maximum to the end of the box.</span></li>
+<li><span>Some additional measures we can calculate for the data are the range and interquartile range (IQR).</span>
+<ul>
+<li><span>Range = Maximum - Minimum = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXamBjb6QMomN99OF8jKBwsamsEF1ZQrHA2soTL5drZwFopEnp2xCUSLPsgRdgC4C%2FZsiwAAAA%3D%3D" alt="50 minus 16 space equals space 34" loading="lazy"></span></li>
+<li><span>Interquartile Range (IQR) = Q3 - Q1 = <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGFjb6QMomN99OF8jKhwgawAXVlCscDayhMvl2tnAWikSeHdQYfZAb7ACEWJQmigAAAA%3D%3D" alt="28 minus 20 space equals space 8" loading="lazy"></span>
+<ul>
+<li><span>The IQR represents the variation for the middle 50% of the data.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span><img id="304660" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L03aIMGBoxPlot3.png" alt="MAT06M07L03aIMGBoxPlot3.png" width="1350" height="127" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/304660" data-api-returntype="File" loading="lazy"></span></p>
+<h4><span><br>Conclusion</span></h4>
+<p><span>Box plots provide a clear visual of how your data is spread out, where it's centered, and if there are any outliers. By mastering box plots, you're adding a powerful tool to your mathematical toolkit. Happy plotting!</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. What information does a box plot provide about a data set?</p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. How can you use a box plot to identify outliers in a data set?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">3. In what ways do the median and interquartile range (IQR) in a box plot help us understand the distribution of data?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 6 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">7.03a &middot; Creating Box Plots</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 7.04a Generating a 5 Number Summary</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 6 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 7</div>
+        <div style="font-size: 13px; color: #666;">Collecting, Using, and Interpreting Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">7.04a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Collecting, Using, and Interpreting Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">7.04a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Generating a 5 Number Summary</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Box Plot</strong><span>: A type of graph that shows you the middle and spread of a set of data using five key points: the smallest number, the first quartile, the median, the third quartile, and the largest number. It looks a bit like a box with lines sticking out from either end.</span></p>
+<p><span><strong>Cluster</strong>: When a bunch of data points in a graph are all huddled up together.</span></p>
+<p><span><strong>Data Set</strong>: A collection of numbers or values that relate to a specific question or situation, like the number of books read by each student in the class.</span></p>
+<p><span><strong>Five Number Summary</strong>: This is a quick snapshot of a data set that includes five pieces of information: the smallest number (minimum), the first quartile, the median (middle value), the third quartile, and the largest number (maximum).</span></p>
+<p><span><strong>Histogram</strong>: A type of graph that shows how often different ranges or groups of numbers appear in a data set. It uses bars to represent the frequency of these groups, helping you see patterns like which groups are most common.</span></p>
+<p><span><strong>Interquartile Range (IQR)</strong>: This is a measure of where the middle fifty percent of the data points lie. It's the difference between the third quartile (Q3) and the first quartile (Q1), showing the spread of the middle part of the data.</span></p>
+<p><span><strong>Gaps</strong>: Spaces in a graph where no data points exist. It's like having a missing tooth in a smile; it shows where something is absent.</span></p>
+<p><span><strong>Line Plot</strong>: A simple way to show data on a line where each data point is marked above a number line, often with Xs or dots. It's a good way to see how many times each value appears in the data set.</span></p>
+<p><span><strong>Maximum</strong>: The largest value in a set of data. It's like being the tallest person in your class.</span></p>
+<p><span><strong>Median</strong>: The middle value of a data set when arranged in order. If there's an odd number of values, it's the one right in the center. If there's an even number, it's the average of the two middle ones.</span></p>
+<p><span><strong>Minimum</strong>: The smallest value in a set of data. Think of it as being the shortest person in your class.</span></p>
+<p><span><strong>Normal</strong>: In terms of data, this means that most of the data points are clustered around the middle, forming a bell-shaped curve when graphed. It's a pattern where most things are average, with fewer things being very high or very low.</span></p>
+<p><span><strong>Outlier</strong>: A value in a data set that is much higher or lower than the rest. It stands out from the group, like someone wearing a costume at a regular clothes party.</span></p>
+<p><span><strong>Quartiles</strong>: These split the data into four equal parts. The first quartile (Q1) is the middle number between the smallest number and the median. The third quartile (Q3) is the middle value between the median and the largest number.</span></p>
+<p><span><strong>Range</strong>: The difference between the largest and smallest numbers in a data set. It shows how spread out the data is.</span></p>
+<p><span><strong>Skewness</strong>: This tells us if the data is lopsided or leans more towards one side. If most data points are on the high end, it's skewed right; if they're on the low end, it's skewed left.</span></p>
+<p><span><strong>Spread</strong>: This describes how far apart data points are from each other and the middle value. A big spread means the data points are spread out over a wide range of values.</span></p>
+<p><span><strong>Symmetry</strong>: When one-half of the data is a mirror image of the other half. In symmetric data, the median is in the middle, and the data spreads out equally on both sides.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will explore <span>the world of box plots and the five-number summary. Imagine you're a detective, and your mission is to uncover the secrets of a data set. Your most reliable tool? The box plot! It's like a treasure map that guides you to understanding the heart and spread of your data. Understanding the five-number summary will help you in the next lesson to be able to analyze box plots to describe the spread and distribution. Let's dive into what the five-number summary is and how you can use a box plot to find it. </span></p>
+<p><span><br>Let's begin by reviewing what the five-number summary is.</span></p>
+<h4>What is the Five-Number Summary?</h4>
+<p>The five-number summary is like the DNA of a data set, giving you a quick snapshot of its main characteristics. It includes:</p>
+<ol>
+<li><strong>Minimum</strong>: The smallest number in the set.</li>
+<li><strong>First Quartile (Q1)</strong>: The middle number between the minimum and the median. It marks the 25th percentile, meaning 25% of the data is below this value.</li>
+<li><strong>Median</strong>: The middle number of the set. If you line up all the numbers from smallest to largest, the median is the one right in the center.</li>
+<li><strong>Third Quartile (Q3)</strong>: The middle value between the median and the maximum. It marks the 75th percentile, with 75% of the data falling below this point.</li>
+<li><strong>Maximum</strong>: The largest number in the set.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>Using a Box Plot to Find the Five-Number Summary</h4>
+<p>A box plot, or box-and-whisker plot, is a visual representation of the five-number summary. Here’s how you can read one:</p>
+<ul>
+<li><strong>The Ends of the Whiskers</strong>: Look at the lines (or "whiskers") that stretch out from the box.
+<ul>
+<li>The very end of the left whisker is the <strong>minimum</strong> value.</li>
+<li>The end of the right whisker is the <strong>maximum</strong> value.</li>
+</ul>
+</li>
+<li><strong>The Edges of the Box</strong>: The left edge of the box shows <strong>Q1</strong>&nbsp;and the right edge shows <strong>Q3</strong>.
+<ul>
+<li>These edges are like the boundaries of the middle 50% of your data.</li>
+<li>The minimum to the Q1 edge represents the bottom 25% of the data.</li>
+<li>The maximum to the Q3 edge represents the top 25% of the data.</li>
+</ul>
+</li>
+<li><strong>The Line in the Middle of the Box</strong>: This line represents the <strong>median</strong>.
+<ul>
+<li>It's the heart of your data set, dividing it into two equal halves.</li>
+</ul>
+</li>
+</ul>
+<h4><br>Example 1</h4>
+<p><span>A study tracks the average daily screen time (in hours) of teenagers.</span></p>
+<p><span>The box plot shown displays the data that was collected on the daily screen time for 20 teenagers.</span></p>
+<p><span><img id="308111" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04aIMGBoxplot1.png" alt="MAT06M07L04aIMGBoxplot1.png" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308111" data-api-returntype="File" loading="lazy"></span></p>
+<p><span>Find the five-number summary of the box plot.</span></p>
+<ul>
+<li><span>First, we should note the intervals for the number line. It is showing from 0 to 9 in increments of 0.5 with only increments of 1 labeled. This is important to note when we find the values of the five-number summary.</span></li>
+<li><span>Now, we will identify the values of the minimum, Q1, median, Q3, and maximum.</span></li>
+<li><span>Minimum = 2</span></li>
+<li><span>Q1 = 4.25</span>
+<ul>
+<li><span>The increment directly before Q1 is 4 and the increment immediately after Q1 is 4.5.</span></li>
+<li><span>We need the value that is halfway between 4 and 4.5 - mathematically this means <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZmdjoA0mb3Hw7bSArH01MDy5mChHTh2s0gglADcy3s4UqRrPBgjLTsDvHCG4C0GN2ALxLqC8HAQAA" alt="fraction numerator 4 plus 4.5 over denominator 2 end fraction equals fraction numerator 8.5 over denominator 2 end fraction equals 4.25" loading="lazy"></span></li>
+</ul>
+</li>
+<li><span>Median = 6.5</span></li>
+<li><span>Q3 = 7.5</span></li>
+<li><span>Maximum = 8</span></li>
+</ul>
+<h4><br>Example 2</h4>
+<p><span>A meteorologist records the daily rainfall (in inches) over 30 days.</span></p>
+<p><span>The box plot shown displays the data collected. Identify the values of the five-number summary for the box plot.</span></p>
+<p><span><img id="308113" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04aIMGBoxplot2.png" alt="MAT06M07L04aIMGBoxplot2.png" width="637" height="196" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308113" data-api-returntype="File" loading="lazy"></span></p>
+<p><span>Find the five-number summary of the box plot.</span></p>
+<ul>
+<li><span>First, we should note the intervals for the number line. It is showing from 0 to 5 in increments of 0.1 with only increments of 0.5 labeled. This is important to note when we find the values of the five-number summary.</span></li>
+<li><span>Now, we will identify the values of the minimum, Q1, median, Q3, and maximum.</span></li>
+<li><span>Minimum = 0.1</span></li>
+<li><span>Q1 = 0.6</span></li>
+<li><span>Median = 2.6</span></li>
+<li><span>Q3 = 3.9</span></li>
+<li><span>Maximum = 5</span></li>
+</ul>
+<h4><br>Example 3</h4>
+<p><span>A book club records the number of books each member read in the past year for 25 members.</span></p>
+<p><span>The box plot shown represents the data collected. Identify the values of the five-number summary for the box plot.</span></p>
+<p><span><img id="308117" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04aIMGBoxplot3.png" alt="MAT06M07L04aIMGBoxplot3.png" width="571" height="174" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308117" data-api-returntype="File" loading="lazy"></span></p>
+<p><span>Find the five-number summary of the box plot.</span></p>
+<ul>
+<li><span>First, we should note the intervals for the number line. It is showing from 14 to 41 in increments of 1 with only increments of 2 labeled. This is important to note when we find the values of the five-number summary.</span></li>
+<li><span>Now, we will identify the values of the minimum, Q1, median, Q3, and maximum.</span></li>
+<li><span>Minimum = 15</span></li>
+<li><span>Q1 = 18</span></li>
+<li><span>Median = 19</span></li>
+<li><span>Q3 = 23</span></li>
+<li><span>Maximum = 40</span></li>
+</ul>
+<h4><br>Conclusion</h4>
+<p>Box plots and the five-number summary give you a powerful way to visualize and understand the distribution of a data set. By learning to interpret these, you become a data detective, able to uncover the story behind the numbers. Remember, each part of the five-number summary tells you something unique about your data, from its spread to its center. Keep practicing with different box plots, and you'll soon be a pro at reading them and understanding the tales they tell. Happy exploring, detectives!</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. What is the five-number summary, and why is it important in data analysis?</p>
+<p>2. How do you find each part of the five-number summary from a box plot?</p>
+<p>3. How can the five-number summary help us understand the spread and central tendency of a data set?</p>
+<p>4. How does a box plot visually represent the five-number summary?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 6 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">7.04a &middot; Generating a 5 Number Summary</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

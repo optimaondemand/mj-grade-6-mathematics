@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 7.04b Describing Spread and Distribution of a Box Plot</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 6 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 7</div>
+        <div style="font-size: 13px; color: #666;">Collecting, Using, and Interpreting Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">7.04b</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Collecting, Using, and Interpreting Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">7.04b</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Describing Spread and Distribution of a Box Plot</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Box Plot</strong><span>: A type of graph that shows you the middle and spread of a set of data using five key points: the smallest number, the first quartile, the median, the third quartile, and the largest number. It looks a bit like a box with lines sticking out from either end.</span></p>
+<p><span><strong>Cluster</strong>: When a bunch of data points in a graph are all huddled up together.</span></p>
+<p><span><strong>Data Set</strong>: A collection of numbers or values that relate to a specific question or situation, like the number of books read by each student in the class.</span></p>
+<p><span><strong>Five Number Summary</strong>: This is a quick snapshot of a data set that includes five pieces of information: the smallest number (minimum), the first quartile, the median (middle value), the third quartile, and the largest number (maximum).</span></p>
+<p><span><strong>Histogram</strong>: A type of graph that shows how often different ranges or groups of numbers appear in a data set. It uses bars to represent the frequency of these groups, helping you see patterns like which groups are most common.</span></p>
+<p><span><strong>Interquartile Range (IQR)</strong>: This is a measure of where the middle fifty percent of the data points lie. It's the difference between the third quartile (Q3) and the first quartile (Q1), showing the spread of the middle part of the data.</span></p>
+<p><span><strong>Gaps</strong>: Spaces in a graph where no data points exist. It's like having a missing tooth in a smile; it shows where something is absent.</span></p>
+<p><span><strong>Line Plot</strong>: A simple way to show data on a line where each data point is marked above a number line, often with Xs or dots. It's a good way to see how many times each value appears in the data set.</span></p>
+<p><span><strong>Maximum</strong>: The largest value in a set of data. It's like being the tallest person in your class.</span></p>
+<p><span><strong>Median</strong>: The middle value of a data set when arranged in order. If there's an odd number of values, it's the one right in the center. If there's an even number, it's the average of the two middle ones.</span></p>
+<p><span><strong>Minimum</strong>: The smallest value in a set of data. Think of it as being the shortest person in your class.</span></p>
+<p><span><strong>Normal</strong>: In terms of data, this means that most of the data points are clustered around the middle, forming a bell-shaped curve when graphed. It's a pattern where most things are average, with fewer things being very high or very low.</span></p>
+<p><span><strong>Outlier</strong>: A value in a data set that is much higher or lower than the rest. It stands out from the group, like someone wearing a costume at a regular clothes party.</span></p>
+<p><span><strong>Quartiles</strong>: These split the data into four equal parts. The first quartile (Q1) is the middle number between the smallest number and the median. The third quartile (Q3) is the middle value between the median and the largest number.</span></p>
+<p><span><strong>Range</strong>: The difference between the largest and smallest numbers in a data set. It shows how spread out the data is.</span></p>
+<p><span><strong>Skewness</strong>: This tells us if the data is lopsided or leans more towards one side. If most data points are on the high end, it's skewed right; if they're on the low end, it's skewed left.</span></p>
+<p><span><strong>Spread</strong>: This describes how far apart data points are from each other and the middle value. A big spread means the data points are spread out over a wide range of values.</span></p>
+<p><span><strong>Symmetry</strong>: When one-half of the data is a mirror image of the other half. In symmetric data, the median is in the middle, and the data spreads out equally on both sides.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we are going to further explore the mysteries of box plots. <span>These are not just simple plots but gateways to understanding the spread, distribution, and percentages of a data set. Let's dive into how to describe the spread and distribution of a box plot, find the range and the Interquartile Range (IQR), and what these measurements tell us about our data.</span></p>
+<p><span><br>Let's begin by reviewing the five-number summary of a box plot and looking at the definitions of spread and distribution.</span></p>
+<h4>What is the Five-Number Summary?</h4>
+<p>The five-number summary is like the DNA of a data set, giving you a quick snapshot of its main characteristics. It includes:</p>
+<ol>
+<li><strong>Minimum</strong>: The smallest number in the set.</li>
+<li><strong>First Quartile (Q1)</strong>: The middle number between the minimum and the median. It marks the 25th percentile, meaning 25% of the data is below this value.</li>
+<li><strong>Median</strong>: If you line up all the numbers from smallest to largest, the median is the one right in the center. It represents the middle number of the set, meaning that 50% of the data lies below it and 50% lies above it.</li>
+<li><strong>Third Quartile (Q3)</strong>: The middle value between the median and the maximum. It marks the 75th percentile, with 75% of the data falling below this point.</li>
+<li><strong>Maximum</strong>: The largest number in the set.</li>
+</ol>
+<h4><br>Spread and Distribution in Box Plots</h4>
+<p>When you look at a box plot, you see a box with "whiskers" extending from either side. This plot shows us not just the center of the data but how spread out it is and how it's distributed.</p>
+<ul>
+<li><strong>Spread</strong>: This refers to how far apart the data points are from each other. A wider box or longer whiskers mean the data is more spread out.</li>
+<li><strong>Distribution</strong>: This tells us how the data is laid out across the plot. Are most of the points bunched up on one side? Is there a gap somewhere? Distribution can tell us if the data is skewed (leaning one way) or symmetric (even on both sides).</li>
+</ul>
+<p>&nbsp;</p>
+<h4>Finding the Range and IQR</h4>
+<ol>
+<li>
+<p><strong>Range</strong>: This is the difference between the maximum and minimum values in the data set. It gives us an idea of how wide the entire set of data is. To find it, simply subtract the minimum value (the end of the left whisker) from the maximum value (the end of the right whisker).</p>
+<ul style="list-style-type: circle;">
+<li>The <strong>range</strong> shows the total spread of the data, from the lowest to the highest point.</li>
+</ul>
+</li>
+<li>
+<p><strong>Interquartile Range (IQR)</strong>: This measures the spread of the middle 50% of the data, between the first quartile (Q1) and the third quartile (Q3). It tells us where the bulk of the data lies. You find the IQR by subtracting Q1 from Q3.</p>
+<ul style="list-style-type: circle;">
+<li>The <strong>IQR</strong> focuses more closely on the middle chunk of the data, giving us a clearer view of where most of the data points are clustered.</li>
+</ul>
+</li>
+</ol>
+<h4><br>Understanding Percentages in Box Plots</h4>
+<ul>
+<li>There are 4 parts to a box plot with each part representing 25% of the data.
+<ul>
+<li>25% of the data lies between
+<ul>
+<li>the minimum and Q1</li>
+<li>Q1 and the median</li>
+<li>the median and Q3</li>
+<li>Q3 and the maximum</li>
+</ul>
+</li>
+<li>50% of the data lies between two parts of the plot. For example;
+<ul>
+<li>50% of the data is between Q1 and Q3</li>
+<li>50% of the data is between the minimum and the median</li>
+<li>50% of the data is between the median and the maximum</li>
+</ul>
+</li>
+<li>75% of the data lies within three parts of the plot. For example;
+<ul>
+<li>75% of the data lies between the minimum and Q3</li>
+<li>75% of the data lies between Q1 and the maximum</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>**Note: Sometimes the length or "size" of the parts of the box plot can make it confusing to understand the percentages of the data set. Remember that the median represents the middle or center of the data set. The middle of something is halfway or 50%. To find Q1, we cut the bottom half of the data in half again. Half of 50% is 25%.</p>
+<p>It is not about the size of the part, but how much of the data set is contained within that part. If the spread or variability of the data is large, then the parts may be more spread out or "longer". These are things we will be exploring in this lesson.</p>
+<p>&nbsp;</p>
+<h4>Example 1</h4>
+<p><strong>Context</strong>: A study tracks the average daily screen time of 20 teenagers, with data ranging between 2 and 8 hours. The box plot shown represents the data collected.</p>
+<p>What is the range and interquartile range of the data? Use these values to describe the spread and distribution of the data set. Then answer the following questions.</p>
+<ul>
+<li>Do 50% of the teenagers average between 4.25 and 7.5 hours of screen time?</li>
+<li>Do 25% of teenagers average more than 6.5 hours of screen time?</li>
+<li>75% of the teenagers average between 2 and ___ hours of screen time.</li>
+</ul>
+<p><img id="308111" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04aIMGBoxplot1.png" alt="MAT06M07L04aIMGBoxplot1.png" width="484" height="159" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308111" data-api-returntype="File" loading="lazy"></p>
+<ul>
+<li>To find the range and the IQR, we first need to find the five-number summary of the data set.
+<ul>
+<li>Minimum = 2</li>
+<li>Maximum = 8</li>
+<li>Q1 = 4.25</li>
+<li>Median = 6.5</li>
+<li>Q3 = 7.5</li>
+</ul>
+</li>
+<li>To find the range, we subtract the minimum from the maximum.
+<ul>
+<li>Range: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYWNvpA0iY3304XyMoHixnBxWzhYmYQMX2QHXYARvUZ%2BmoAAAA%3D" alt="8 minus 2 equals 6" loading="lazy"></li>
+<li>This tells us that the average daily screen time of teenagers varies across a span of 6 hours daily.</li>
+</ul>
+</li>
+<li>To find the interquartile range (IQR), we subtract Q1 from Q3. This represents the range of the middle 50% of the data.
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbmNvpA0iY3304PyMoHi5nCxXThYiZY1BkhFNrCBY3xKNQHudAOAB2fi4qoAAAA" alt="7.5 minus 4.25 equals 3.25" loading="lazy"></li>
+<li>This indicates that 50% of the teenager's daily screen spans about 3.25 hours a day.</li>
+</ul>
+</li>
+<li>You will notice from the plot that the lower whisker is slightly longer than the upper whisker and the first half of the box is slightly larger than the second half. This tells us that 50% of the data is clustered between 6.5 and 8 hours of daily screen time showing less variability in the upper 50% than in the lower 50%. The lower 50% of the data is more spread out, with the data spreading between 2 hours and 6.5 hours.</li>
+<li>Now, let's look at the questions.
+<ul>
+<li>Do 50% of the teenagers average between 4.25 and 7.5 hours of screen time?&nbsp;<span style="color: #e03e2d;"><strong>Yes - this represents the middle 50% or the box portion of the plot which begins at 4.25 and ends at 7.5.</strong></span></li>
+<li>Do 25% of teenagers average more than 6.5 hours of screen time?&nbsp;<span style="color: #e03e2d;"><strong>No - 6.5 is the median which represents the middle of the data set and cuts it in half. This would represent half of the data set. More specifically, the upper 50%.</strong></span></li>
+<li>75% of the teenagers average between 2 and ___ hours of screen time.&nbsp;<span style="color: #e03e2d;"><strong>7.5 hours - 75% of the data should include 3 parts of the plot. Since it begins at 2, we use the first whisker and both parts of the box. The whisker represents 25% of the data and the whole box represents 50% of the data. This would make a total of 75% of the data.</strong></span></li>
+</ul>
+</li>
+</ul>
+<h4><br>Example 2</h4>
+<p><strong>Context</strong>: A meteorologist records the daily rainfall over 30 days, with amounts ranging between 0 to 10 inches.&nbsp;</p>
+<p>The box plot shown represents the data collected.</p>
+<p>What is the range and interquartile range of the data? Use these values to describe the spread and distribution of the data set. Then answer the following questions.</p>
+<ul>
+<li>Was 50% of the daily rainfall between 1.5 and 3.1 inches?</li>
+<li>Was the lower 25% of daily rainfall at or less than 1.5 inches?</li>
+<li>The upper 50% of daily rainfall was between ___ inches and 9.8 inches.</li>
+</ul>
+<p><img id="308132" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04bIMGBoxplot2.png" alt="MAT06M07L04bIMGBoxplot2.png" width="566" height="171" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308132" data-api-returntype="File" loading="lazy"></p>
+<ul>
+<li>To find the range and the IQR, we first need to find the five-number summary of the data set.
+<ul>
+<li>Minimum = 0.2</li>
+<li>Maximum = 9.8</li>
+<li>Q1 = 1.5</li>
+<li>Median = 3.1</li>
+<li>Q3 = 4.9</li>
+</ul>
+</li>
+<li>To find the range, we subtract the minimum from the maximum.
+<ul>
+<li>Range: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXaWNvpA0iY3304PyMoHi1nAxXThYgZY1BnBxWzhYtjMM4OI6YPcZwcA1fxBIaYAAAA%3D" alt="9.8 minus 0.2 equals 9.6" loading="lazy"></li>
+<li>This tells us that the daily rainfall varies across a span of 9.8 inches. This is a large variation.</li>
+</ul>
+</li>
+<li>To find the interquartile range (IQR), we subtract Q1 from Q3. This represents the range of the middle 50% of the data.
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYmNvpA0iY3304PyMoHi1nCxXThYoZY1JnCxWzhYsZY1EHt0Ae5zw4AZYgX9aYAAAA%3D" alt="4.9 minus 1.5 equals 3.4" loading="lazy"></li>
+<li>This indicates that 50% of the daily rainfall in the month spans 3.4 inches a day.</li>
+<li>This is a much smaller variation than the range.</li>
+<li>This indicates that the data set as a whole has a large variation which could imply the data is skewed or contains an outlier.</li>
+</ul>
+</li>
+<li>You will notice from the plot that the lower whisker is shorter than the upper whisker where the box looks fairly symmetrical. This indicates to us that either the data is skewed, meaning there are some data values that are greater than the majority or there is an outlier, one or two data values that are greater than the majority. We can tell that the data values causing the skewness in the display are larger than the majority since the longer whisker is for the upper 25%. The lower 75% of the data is between 0.2 and 4.9 inches whereas the upper 25% is between 4.9 and 9.8 inches.</li>
+<li>Now, let's look at the questions.
+<ul>
+<li>Was 50% of the daily rainfall between 1.5 and 3.1 inches?<span style="color: #e03e2d;"><strong> No - this only represents half of the box, which is only 25%. The whole box, both parts, represents the middle 50% of the data.</strong></span></li>
+<li>Was the lower 25% of daily rainfall at or less than 1.5 inches? <span style="color: #e03e2d;"><strong>Yes - 1.5 is Q1. The data from Q1 and down represents the whisker which is the lower 25% or 25th percentile of the data.</strong></span></li>
+<li>The upper 50% of daily rainfall was between ___ inches and 9.8 inches. <span style="color: #e03e2d;"><strong>3.1 inches - The upper 50% of the data would start at the median and go to the maximum. Remember the median cuts the data in half since it represents the middle value. Everything above it is the upper 50% and everything below it is the lower 50%.</strong></span></li>
+</ul>
+</li>
+</ul>
+<h4><br>Example 3</h4>
+<p><strong>Context</strong>: A book club tracks the number of books read by each member in a year.</p>
+<p>The box plot shown represents the data collected.</p>
+<p>What is the range and interquartile range of the data? Use these values to describe the spread and distribution of the data set. Then answer the following questions.</p>
+<ul>
+<li>The middle 50% of the data is between ___ books and ___ books.</li>
+<li>The upper 25% of the data is at or above ___ books.</li>
+<li>75% of the data ranges between 18 books and ___ books.</li>
+</ul>
+<p><img id="308117" src="https://optimaondemand.github.io/mj-grade-6-mathematics/media/MAT06M07L04aIMGBoxplot3.png" alt="MAT06M07L04aIMGBoxplot3.png" width="535" height="163" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/897/files/308117" data-api-returntype="File" loading="lazy"></p>
+<ul>
+<li>To find the range and the IQR, we first need to find the five-number summary of the data set.
+<ul>
+<li>Minimum = 15</li>
+<li>Maximum = 40</li>
+<li>Q1 = 18</li>
+<li>Median = 19</li>
+<li>Q3 = 23</li>
+</ul>
+</li>
+<li>To find the range, we subtract the minimum from the maximum.
+<ul>
+<li>Range: <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYmBjb6QMomN99OF8jKBwsamsIFbeGCRlBBfZA1dgDhOHVrbQAAAA%3D%3D" alt="40 minus 15 equals 25" loading="lazy"></li>
+<li>This tells us that the number of books read by the members varies across a span of 25 books. This is a large variation.</li>
+</ul>
+</li>
+<li>To find the interquartile range (IQR), we subtract Q1 from Q3. This represents the range of the middle 50% of the data.
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGxjb6QMomN99OF8jKBwsaWsAFbeGCphAxfZAtdgAD%2FLl7bAAAAA%3D%3D" alt="23 minus 18 equals 5" loading="lazy"></li>
+<li>This indicates that 50% of the members' number of books read spans across 5 books a member.</li>
+<li>This is a much smaller variation than the range.</li>
+<li>Since there is such a larger difference between the range and the IQR, there is most likely an outlier in the data set.</li>
+</ul>
+</li>
+<li>You will notice from the plot that the lower whisker is much shorter than the upper whisker. <span>The range is quite large due to the outlier. However, the IQR shows a more focused view, with the middle 50% of members reading between 18 and 23 books. The outlier significantly affects the range but less so the IQR, helping us understand that while most members' reading habits are similar, one member's habits are exceptionally different.</span></li>
+<li>Now, let's look at the questions.
+<ul>
+<li>The middle 50% of the data is between ___ books and ___ books.&nbsp;<span style="color: #e03e2d;"><strong>18 and 23 - the middle 50% represents the span of the box from the start of the box to the end of the box.</strong></span></li>
+<li>The upper 25% of the data is at or above ___ books.&nbsp;<span style="color: #e03e2d;"><strong>23 - the upper 25% is the upper whisker representing the values spanning from the end of the box to the maximum.</strong></span></li>
+<li>75% of the data ranges between 18 books and ___ books.&nbsp;<span style="color: #e03e2d;"><strong>40 - since the span started with 18 books and is looking for 75%, we can only go up since anything below 18 shows only the lower whisker which is 25% of the data.</strong></span></li>
+</ul>
+</li>
+</ul>
+<h4><br>Conclusion</h4>
+<p>By mastering how to interpret the spread, distribution, and percentages in a box plot, you become a more skilled data detective. These insights help you understand not just the average or typical value but the full story of your data's behavior. <span>Through these examples, we see how box plots can efficiently summarize and visually represent data distributions, helping us understand the spread, central tendency, and how individual values, like outliers, can influence our interpretation of the data. </span>Keep practicing with different box plots, and you'll uncover even more data secrets. Happy investigating!</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. <span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">How can the five-number summary help us understand the spread and central tendency of a data set?</span></p>
+<p>2. How does a box plot visually represent the five-number summary?</p>
+<p>3. What can you infer about a data set's distribution based on the shape and spread of its box plot?</p>
+<p>4. How do outliers affect the interpretation of a box plot?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 6 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">7.04b &middot; Describing Spread and Distribution of a Box Plot</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>
