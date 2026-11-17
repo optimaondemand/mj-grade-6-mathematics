@@ -1,0 +1,1679 @@
+{
+ "version": 1,
+ "module": "M/J Grade 6 Mathematics",
+ "made": "2026-11-17",
+ "lessons": [
+  {
+   "page": "6-01a-translating-real-world-contexts-into-algebraic-expressions.html",
+   "heading": "6.01a",
+   "title": "Translating Real-World Contexts into Algebraic Expressions",
+   "folder": "6.01a - Translating Real-World Context",
+   "combined": {
+    "path": "6.01a - Translating Real-World Context/6.01a - all cards.pdf",
+    "bytes": 23815
+   },
+   "files": [
+    {
+     "path": "6.01a - Translating Real-World Context/Learn/01 - Sign - Translating Real-World Contexts into Algebraic Expressions.pdf",
+     "thumb": "thumbs/6.01a - Translating Real-World Context/Learn/01 - Sign - Translating Real-World Contexts into Algebraic Expressions.jpg",
+     "activity": "Learn",
+     "label": "Translating Real-World Contexts into Algebraic Expressions",
+     "bytes": 19373
+    },
+    {
+     "path": "6.01a - Translating Real-World Context/Examples/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/6.01a - Translating Real-World Context/Examples/01 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Write an expression that represents the total amount of money you will spend on your garden.",
+     "bytes": 20196
+    },
+    {
+     "path": "6.01a - Translating Real-World Context/Examples/02 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/6.01a - Translating Real-World Context/Examples/02 - Moment 2 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Write an expression to represent how much you could spend on books at the bookstore.",
+     "bytes": 20194
+    }
+   ]
+  },
+  {
+   "page": "6-01b-translating-mathematical-descriptions-into-algebraic-expressions.html",
+   "heading": "6.01b",
+   "title": "Translating Mathematical Descriptions into Algebraic Expressions",
+   "folder": "6.01b - Translating Mathematical Descr",
+   "combined": {
+    "path": "6.01b - Translating Mathematical Descr/6.01b - all cards.pdf",
+    "bytes": 27913
+   },
+   "files": [
+    {
+     "path": "6.01b - Translating Mathematical Descr/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Write a numerical expression for the verbal phrase \"twice the difference between 10 and 6, plus three.\"",
+     "bytes": 20495
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write a numerical expression for the verbal phrase \"3 more than the product of 4 and 5.\"",
+     "bytes": 20721
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Warm-Up/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Warm-Up/03 - Moment 3 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Write a numerical expression for the verbal phrase \"half the sum of 8 and 4 subtracted from 20.\"",
+     "bytes": 20795
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "\"The sum of a number and 7.\"",
+     "bytes": 17895
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Write an algebraic expression for the given statement.",
+     "bytes": 19784
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "\"Three times a number, increased by 5.\"",
+     "bytes": 18581
+    },
+    {
+     "path": "6.01b - Translating Mathematical Descr/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/6.01b - Translating Mathematical Descr/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "\"A number decreased by 2, then divided by 4.\"",
+     "bytes": 18661
+    }
+   ]
+  },
+  {
+   "page": "6-01c-writing-descriptions-for-algebraic-expressions.html",
+   "heading": "6.01c",
+   "title": "Writing Descriptions for Algebraic Expressions",
+   "folder": "6.01c - Writing Descriptions for Algeb",
+   "combined": {
+    "path": "6.01c - Writing Descriptions for Algeb/6.01c - all cards.pdf",
+    "bytes": 26697
+   },
+   "files": [
+    {
+     "path": "6.01c - Writing Descriptions for Algeb/Warm-Up/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/6.01c - Writing Descriptions for Algeb/Warm-Up/01 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an expression to represent how much you could spend on books at the bookstore.",
+     "bytes": 20175
+    },
+    {
+     "path": "6.01c - Writing Descriptions for Algeb/Warm-Up/02 - Moment 2 - Example 1.pdf",
+     "thumb": "thumbs/6.01c - Writing Descriptions for Algeb/Warm-Up/02 - Moment 2 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "\"The sum of a number and 7.\"",
+     "bytes": 18161
+    },
+    {
+     "path": "6.01c - Writing Descriptions for Algeb/Warm-Up/03 - Moment 3 - Example 2.pdf",
+     "thumb": "thumbs/6.01c - Writing Descriptions for Algeb/Warm-Up/03 - Moment 3 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an algebraic expression for the given statement.",
+     "bytes": 19971
+    },
+    {
+     "path": "6.01c - Writing Descriptions for Algeb/Warm-Up/04 - Moment 4 - Example 3.pdf",
+     "thumb": "thumbs/6.01c - Writing Descriptions for Algeb/Warm-Up/04 - Moment 4 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "\"A number decreased by 2, then divided by 4.\"",
+     "bytes": 18662
+    },
+    {
+     "path": "6.01c - Writing Descriptions for Algeb/Learn/01 - Sign - Writing Descriptions for Algebraic Expressions.pdf",
+     "thumb": "thumbs/6.01c - Writing Descriptions for Algeb/Learn/01 - Sign - Writing Descriptions for Algebraic Expressions.jpg",
+     "activity": "Learn",
+     "label": "Writing Descriptions for Algebraic Expressions",
+     "bytes": 19280
+    }
+   ]
+  },
+  {
+   "page": "6-02a-the-distributive-property-on-algebraic-expressions.html",
+   "heading": "6.02a",
+   "title": "The Distributive Property on Algebraic Expressions",
+   "folder": "6.02a - The Distributive Property on A",
+   "combined": {
+    "path": "6.02a - The Distributive Property on A/6.02a - all cards.pdf",
+    "bytes": 20190
+   },
+   "files": [
+    {
+     "path": "6.02a - The Distributive Property on A/Learn/01 - Sign - The Distributive Property on Algebraic Expressions.pdf",
+     "thumb": "thumbs/6.02a - The Distributive Property on A/Learn/01 - Sign - The Distributive Property on Algebraic Expressions.jpg",
+     "activity": "Learn",
+     "label": "The Distributive Property on Algebraic Expressions",
+     "bytes": 20190
+    }
+   ]
+  },
+  {
+   "page": "6-02b-combining-like-terms.html",
+   "heading": "6.02b",
+   "title": "Combining Like Terms",
+   "folder": "6.02b - Combining Like Terms",
+   "combined": {
+    "path": "6.02b - Combining Like Terms/6.02b - all cards.pdf",
+    "bytes": 23702
+   },
+   "files": [
+    {
+     "path": "6.02b - Combining Like Terms/Learn/01 - Sign - Combining Like Terms.pdf",
+     "thumb": "thumbs/6.02b - Combining Like Terms/Learn/01 - Sign - Combining Like Terms.jpg",
+     "activity": "Learn",
+     "label": "Combining Like Terms",
+     "bytes": 18197
+    },
+    {
+     "path": "6.02b - Combining Like Terms/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.02b - Combining Like Terms/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Rewrite the algebraic expression by combining like terms.",
+     "bytes": 20583
+    },
+    {
+     "path": "6.02b - Combining Like Terms/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.02b - Combining Like Terms/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Rewrite the algebraic expression by combining like terms.",
+     "bytes": 20405
+    },
+    {
+     "path": "6.02b - Combining Like Terms/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.02b - Combining Like Terms/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Rewrite the algebraic expression by combining like terms.",
+     "bytes": 20404
+    }
+   ]
+  },
+  {
+   "page": "6-03a-interpreting-and-representing-an-algebraic-inequality.html",
+   "heading": "6.03a",
+   "title": "Interpreting and Representing an Algebraic Inequality",
+   "folder": "6.03a - Interpreting and Representing",
+   "combined": {
+    "path": "6.03a - Interpreting and Representing/6.03a - all cards.pdf",
+    "bytes": 38547
+   },
+   "files": [
+    {
+     "path": "6.03a - Interpreting and Representing/Learn/01 - Sign - Interpreting and Representing an Algebraic Inequality.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Learn/01 - Sign - Interpreting and Representing an Algebraic Inequality.jpg",
+     "activity": "Learn",
+     "label": "Interpreting and Representing an Algebraic Inequality",
+     "bytes": 19121
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 20818
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 20249
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 19828
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/04 - Example 1.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/04 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 20620
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/05 - Example 2.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/05 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 20373
+    },
+    {
+     "path": "6.03a - Interpreting and Representing/Examples/06 - Example 3.pdf",
+     "thumb": "thumbs/6.03a - Interpreting and Representing/Examples/06 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 20048
+    }
+   ]
+  },
+  {
+   "page": "6-03b-translating-written-descriptions-into-algebraic-inequalities.html",
+   "heading": "6.03b",
+   "title": "Translating Written Descriptions into Algebraic Inequalities",
+   "folder": "6.03b - Translating Written Descriptio",
+   "combined": {
+    "path": "6.03b - Translating Written Descriptio/6.03b - all cards.pdf",
+    "bytes": 35574
+   },
+   "files": [
+    {
+     "path": "6.03b - Translating Written Descriptio/Warm-Up/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Warm-Up/01 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an expression that represents the total amount of money you will spend on your garden.",
+     "bytes": 20718
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Warm-Up/02 - Moment 2 - Example 1.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Warm-Up/02 - Moment 2 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "\"The sum of a number and 7.\"",
+     "bytes": 18167
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Warm-Up/03 - Moment 3 - Example 2.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Warm-Up/03 - Moment 3 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an algebraic expression for the given statement.",
+     "bytes": 19542
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Learn/01 - Sign - Translating Written Descriptions into Algebraic Inequalities.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Learn/01 - Sign - Translating Written Descriptions into Algebraic Inequalities.jpg",
+     "activity": "Learn",
+     "label": "Translating Written Descriptions into Algebraic Inequalities",
+     "bytes": 20052
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 20766
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 20457
+    },
+    {
+     "path": "6.03b - Translating Written Descriptio/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/6.03b - Translating Written Descriptio/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 20616
+    }
+   ]
+  },
+  {
+   "page": "6-04a-determining-true-solutions-for-an-equation.html",
+   "heading": "6.04a",
+   "title": "Determining True Solutions for an Equation",
+   "folder": "6.04a - Determining True Solutions for",
+   "combined": {
+    "path": "6.04a - Determining True Solutions for/6.04a - all cards.pdf",
+    "bytes": 19079
+   },
+   "files": [
+    {
+     "path": "6.04a - Determining True Solutions for/Learn/01 - Sign - Determining True Solutions for an Equation.pdf",
+     "thumb": "thumbs/6.04a - Determining True Solutions for/Learn/01 - Sign - Determining True Solutions for an Equation.jpg",
+     "activity": "Learn",
+     "label": "Determining True Solutions for an Equation",
+     "bytes": 19079
+    }
+   ]
+  },
+  {
+   "page": "6-04b-determining-solution-sets-for-inequalities.html",
+   "heading": "6.04b",
+   "title": "Determining Solution Sets for Inequalities",
+   "folder": "6.04b - Determining Solution Sets for",
+   "combined": {
+    "path": "6.04b - Determining Solution Sets for/6.04b - all cards.pdf",
+    "bytes": 28144
+   },
+   "files": [
+    {
+     "path": "6.04b - Determining Solution Sets for/Warm-Up/01 - Example 1.pdf",
+     "thumb": "thumbs/6.04b - Determining Solution Sets for/Warm-Up/01 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 20926
+    },
+    {
+     "path": "6.04b - Determining Solution Sets for/Warm-Up/02 - Example 2.pdf",
+     "thumb": "thumbs/6.04b - Determining Solution Sets for/Warm-Up/02 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 2",
+     "bytes": 20685
+    },
+    {
+     "path": "6.04b - Determining Solution Sets for/Learn/01 - Sign - Determining Solution Sets for Inequalities.pdf",
+     "thumb": "thumbs/6.04b - Determining Solution Sets for/Learn/01 - Sign - Determining Solution Sets for Inequalities.jpg",
+     "activity": "Learn",
+     "label": "Determining Solution Sets for Inequalities",
+     "bytes": 19357
+    }
+   ]
+  },
+  {
+   "page": "6-05a-solving-one-step-equations-with-addition-and-subtraction.html",
+   "heading": "6.05a",
+   "title": "Solving One-Step Equations with Addition and Subtraction",
+   "folder": "6.05a - Solving One-Step Equations wit",
+   "combined": {
+    "path": "6.05a - Solving One-Step Equations wit/6.05a - all cards.pdf",
+    "bytes": 20238
+   },
+   "files": [
+    {
+     "path": "6.05a - Solving One-Step Equations wit/Learn/01 - Sign - Solving One-Step Equations with Addition and Subtraction.pdf",
+     "thumb": "thumbs/6.05a - Solving One-Step Equations wit/Learn/01 - Sign - Solving One-Step Equations with Addition and Subtraction.jpg",
+     "activity": "Learn",
+     "label": "Solving One-Step Equations with Addition and Subtraction",
+     "bytes": 20238
+    }
+   ]
+  },
+  {
+   "page": "6-05b-writing-and-solving-one-step-equations-with-addition-and-subtraction.html",
+   "heading": "6.05b",
+   "title": "Writing and Solving One-Step Equations with Addition and Subtraction",
+   "folder": "6.05b - Writing and Solving One-Step E",
+   "combined": {
+    "path": "6.05b - Writing and Solving One-Step E/6.05b - all cards.pdf",
+    "bytes": 28700
+   },
+   "files": [
+    {
+     "path": "6.05b - Writing and Solving One-Step E/Warm-Up/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/6.05b - Writing and Solving One-Step E/Warm-Up/01 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an expression that represents the total amount of money you will spend on your garden.",
+     "bytes": 20702
+    },
+    {
+     "path": "6.05b - Writing and Solving One-Step E/Learn/01 - Sign - Writing and Solving One-Step Equations with Addition and Subtraction.pdf",
+     "thumb": "thumbs/6.05b - Writing and Solving One-Step E/Learn/01 - Sign - Writing and Solving One-Step Equations with Addition and Subtraction.jpg",
+     "activity": "Learn",
+     "label": "Writing and Solving One-Step Equations with Addition and Subtraction",
+     "bytes": 20767
+    },
+    {
+     "path": "6.05b - Writing and Solving One-Step E/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.05b - Writing and Solving One-Step E/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "After buying some apples for $3, you have $7 left. How much money did you have initially?",
+     "bytes": 22242
+    },
+    {
+     "path": "6.05b - Writing and Solving One-Step E/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.05b - Writing and Solving One-Step E/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "After adding $20 to your savings account, you now have $70. How much money did you have before adding the $20?",
+     "bytes": 21765
+    },
+    {
+     "path": "6.05b - Writing and Solving One-Step E/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.05b - Writing and Solving One-Step E/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "After reading 45 pages of a book, you have 75 pages left. How many pages does the book have in total?",
+     "bytes": 22229
+    }
+   ]
+  },
+  {
+   "page": "6-05c-solving-one-step-equations-with-multiplication-and-division.html",
+   "heading": "6.05c",
+   "title": "Solving One-Step Equations with Multiplication and Division",
+   "folder": "6.05c - Solving One-Step Equations wit",
+   "combined": {
+    "path": "6.05c - Solving One-Step Equations wit/6.05c - all cards.pdf",
+    "bytes": 24874
+   },
+   "files": [
+    {
+     "path": "6.05c - Solving One-Step Equations wit/Learn/01 - Sign - Solving One-Step Equations with Multiplication and Division.pdf",
+     "thumb": "thumbs/6.05c - Solving One-Step Equations wit/Learn/01 - Sign - Solving One-Step Equations with Multiplication and Division.jpg",
+     "activity": "Learn",
+     "label": "Solving One-Step Equations with Multiplication and Division",
+     "bytes": 20253
+    },
+    {
+     "path": "6.05c - Solving One-Step Equations wit/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.05c - Solving One-Step Equations wit/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Solve the given equation.",
+     "bytes": 19025
+    },
+    {
+     "path": "6.05c - Solving One-Step Equations wit/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.05c - Solving One-Step Equations wit/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Solve the given equation.",
+     "bytes": 19103
+    },
+    {
+     "path": "6.05c - Solving One-Step Equations wit/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.05c - Solving One-Step Equations wit/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Solve the given equation.",
+     "bytes": 19248
+    },
+    {
+     "path": "6.05c - Solving One-Step Equations wit/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/6.05c - Solving One-Step Equations wit/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Solve the given equation.",
+     "bytes": 18826
+    }
+   ]
+  },
+  {
+   "page": "6-05d-writing-and-solving-one-step-equations-with-multiplication-and-division.html",
+   "heading": "6.05d",
+   "title": "Writing and Solving One-Step Equations with Multiplication and Division",
+   "folder": "6.05d - Writing and Solving One-Step E",
+   "combined": {
+    "path": "6.05d - Writing and Solving One-Step E/6.05d - all cards.pdf",
+    "bytes": 27403
+   },
+   "files": [
+    {
+     "path": "6.05d - Writing and Solving One-Step E/Warm-Up/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/6.05d - Writing and Solving One-Step E/Warm-Up/01 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Write an expression that represents the total amount of money you will spend on your garden.",
+     "bytes": 20361
+    },
+    {
+     "path": "6.05d - Writing and Solving One-Step E/Learn/01 - Sign - Writing and Solving One-Step Equations with Multiplication and Divisio.pdf",
+     "thumb": "thumbs/6.05d - Writing and Solving One-Step E/Learn/01 - Sign - Writing and Solving One-Step Equations with Multiplication and Divisio.jpg",
+     "activity": "Learn",
+     "label": "Writing and Solving One-Step Equations with Multiplication and Division",
+     "bytes": 20763
+    },
+    {
+     "path": "6.05d - Writing and Solving One-Step E/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.05d - Writing and Solving One-Step E/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "You earn $8 per hour working at a job. If you earned $64 in total, how many hours did you work?",
+     "bytes": 22624
+    }
+   ]
+  },
+  {
+   "page": "7-01a-identifying-and-creating-statistical-questions.html",
+   "heading": "7.01a",
+   "title": "Identifying and Creating Statistical Questions",
+   "folder": "7.01a - Identifying and Creating Stati",
+   "combined": {
+    "path": "7.01a - Identifying and Creating Stati/7.01a - all cards.pdf",
+    "bytes": 22509
+   },
+   "files": [
+    {
+     "path": "7.01a - Identifying and Creating Stati/Learn/01 - Sign - Identifying and Creating Statistical Questions.pdf",
+     "thumb": "thumbs/7.01a - Identifying and Creating Stati/Learn/01 - Sign - Identifying and Creating Statistical Questions.jpg",
+     "activity": "Learn",
+     "label": "Identifying and Creating Statistical Questions",
+     "bytes": 19516
+    },
+    {
+     "path": "7.01a - Identifying and Creating Stati/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.01a - Identifying and Creating Stati/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Review the following questions and decide if they are statistical or non-statistical:",
+     "bytes": 20032
+    }
+   ]
+  },
+  {
+   "page": "7-02a-finding-and-interpreting-mean-and-median.html",
+   "heading": "7.02a",
+   "title": "Finding and Interpreting Mean and Median",
+   "folder": "7.02a - Finding and Interpreting Mean",
+   "combined": {
+    "path": "7.02a - Finding and Interpreting Mean/7.02a - all cards.pdf",
+    "bytes": 21331
+   },
+   "files": [
+    {
+     "path": "7.02a - Finding and Interpreting Mean/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02a - Finding and Interpreting Mean/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the mean and median of the data set.",
+     "bytes": 17018
+    },
+    {
+     "path": "7.02a - Finding and Interpreting Mean/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02a - Finding and Interpreting Mean/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Calculate the mean and median.",
+     "bytes": 17179
+    },
+    {
+     "path": "7.02a - Finding and Interpreting Mean/Learn/01 - Sign - Finding and Interpreting Mean and Median.pdf",
+     "thumb": "thumbs/7.02a - Finding and Interpreting Mean/Learn/01 - Sign - Finding and Interpreting Mean and Median.jpg",
+     "activity": "Learn",
+     "label": "Finding and Interpreting Mean and Median",
+     "bytes": 17746
+    }
+   ]
+  },
+  {
+   "page": "7-02b-finding-and-interpreting-mode-and-range.html",
+   "heading": "7.02b",
+   "title": "Finding and Interpreting Mode and Range",
+   "folder": "7.02b - Finding and Interpreting Mode",
+   "combined": {
+    "path": "7.02b - Finding and Interpreting Mode/7.02b - all cards.pdf",
+    "bytes": 21692
+   },
+   "files": [
+    {
+     "path": "7.02b - Finding and Interpreting Mode/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02b - Finding and Interpreting Mode/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the mode of the data set. If there is more than one mode, list all modes as a set using commas to separate them.",
+     "bytes": 19213
+    },
+    {
+     "path": "7.02b - Finding and Interpreting Mode/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02b - Finding and Interpreting Mode/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the mode of the data set. If there is more than one mode, list all modes as a set using commas to separate them.",
+     "bytes": 19042
+    },
+    {
+     "path": "7.02b - Finding and Interpreting Mode/Learn/01 - Sign - Finding and Interpreting Mode and Range.pdf",
+     "thumb": "thumbs/7.02b - Finding and Interpreting Mode/Learn/01 - Sign - Finding and Interpreting Mode and Range.jpg",
+     "activity": "Learn",
+     "label": "Finding and Interpreting Mode and Range",
+     "bytes": 18301
+    }
+   ]
+  },
+  {
+   "page": "7-03a-creating-box-plots.html",
+   "heading": "7.03a",
+   "title": "Creating Box Plots",
+   "folder": "7.03a - Creating Box Plots",
+   "combined": {
+    "path": "7.03a - Creating Box Plots/7.03a - all cards.pdf",
+    "bytes": 58687
+   },
+   "files": [
+    {
+     "path": "7.03a - Creating Box Plots/Learn/01 - Sign - Creating Box Plots.pdf",
+     "thumb": "thumbs/7.03a - Creating Box Plots/Learn/01 - Sign - Creating Box Plots.jpg",
+     "activity": "Learn",
+     "label": "Creating Box Plots",
+     "bytes": 18814
+    },
+    {
+     "path": "7.03a - Creating Box Plots/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.03a - Creating Box Plots/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 34062
+    },
+    {
+     "path": "7.03a - Creating Box Plots/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.03a - Creating Box Plots/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 27379
+    },
+    {
+     "path": "7.03a - Creating Box Plots/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/7.03a - Creating Box Plots/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 29469
+    }
+   ]
+  },
+  {
+   "page": "7-03b-creating-histograms.html",
+   "heading": "7.03b",
+   "title": "Creating Histograms",
+   "folder": "7.03b - Creating Histograms",
+   "combined": {
+    "path": "7.03b - Creating Histograms/7.03b - all cards.pdf",
+    "bytes": 30651
+   },
+   "files": [
+    {
+     "path": "7.03b - Creating Histograms/Learn/01 - Sign - Creating Histograms.pdf",
+     "thumb": "thumbs/7.03b - Creating Histograms/Learn/01 - Sign - Creating Histograms.jpg",
+     "activity": "Learn",
+     "label": "Creating Histograms",
+     "bytes": 18136
+    },
+    {
+     "path": "7.03b - Creating Histograms/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.03b - Creating Histograms/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 25147
+    },
+    {
+     "path": "7.03b - Creating Histograms/Examples/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/7.03b - Creating Histograms/Examples/02 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "He creates a histogram to display the data so that he can better analyze any trends or patterns in the rainfall.",
+     "bytes": 19691
+    }
+   ]
+  },
+  {
+   "page": "7-04a-generating-a-5-number-summary.html",
+   "heading": "7.04a",
+   "title": "Generating a 5 Number Summary",
+   "folder": "7.04a - Generating a 5 Number Summary",
+   "combined": {
+    "path": "7.04a - Generating a 5 Number Summary/7.04a - all cards.pdf",
+    "bytes": 35413
+   },
+   "files": [
+    {
+     "path": "7.04a - Generating a 5 Number Summary/Learn/01 - Sign - Generating a 5 Number Summary.pdf",
+     "thumb": "thumbs/7.04a - Generating a 5 Number Summary/Learn/01 - Sign - Generating a 5 Number Summary.jpg",
+     "activity": "Learn",
+     "label": "Generating a 5 Number Summary",
+     "bytes": 18734
+    },
+    {
+     "path": "7.04a - Generating a 5 Number Summary/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.04a - Generating a 5 Number Summary/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 21836
+    },
+    {
+     "path": "7.04a - Generating a 5 Number Summary/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.04a - Generating a 5 Number Summary/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 22177
+    },
+    {
+     "path": "7.04a - Generating a 5 Number Summary/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/7.04a - Generating a 5 Number Summary/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 22681
+    }
+   ]
+  },
+  {
+   "page": "7-04b-describing-spread-and-distribution-of-a-box-plot.html",
+   "heading": "7.04b",
+   "title": "Describing Spread and Distribution of a Box Plot",
+   "folder": "7.04b - Describing Spread and Distribu",
+   "combined": {
+    "path": "7.04b - Describing Spread and Distribu/7.04b - all cards.pdf",
+    "bytes": 35553
+   },
+   "files": [
+    {
+     "path": "7.04b - Describing Spread and Distribu/Learn/01 - Sign - Describing Spread and Distribution of a Box Plot.pdf",
+     "thumb": "thumbs/7.04b - Describing Spread and Distribu/Learn/01 - Sign - Describing Spread and Distribution of a Box Plot.jpg",
+     "activity": "Learn",
+     "label": "Describing Spread and Distribution of a Box Plot",
+     "bytes": 20525
+    },
+    {
+     "path": "7.04b - Describing Spread and Distribu/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.04b - Describing Spread and Distribu/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 22158
+    },
+    {
+     "path": "7.04b - Describing Spread and Distribu/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.04b - Describing Spread and Distribu/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 22167
+    },
+    {
+     "path": "7.04b - Describing Spread and Distribu/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/7.04b - Describing Spread and Distribu/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 23004
+    }
+   ]
+  },
+  {
+   "page": "7-04c-describing-a-histogram-qualitatively.html",
+   "heading": "7.04c",
+   "title": "Describing a Histogram Qualitatively",
+   "folder": "7.04c - Describing a Histogram Qualita",
+   "combined": {
+    "path": "7.04c - Describing a Histogram Qualita/7.04c - all cards.pdf",
+    "bytes": 76780
+   },
+   "files": [
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Learn/01 - Sign - Describing a Histogram Qualitatively.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Learn/01 - Sign - Describing a Histogram Qualitatively.jpg",
+     "activity": "Learn",
+     "label": "Describing a Histogram Qualitatively",
+     "bytes": 19598
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Learn/02 - Histogram with a Somewhat Bell Shape.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Learn/02 - Histogram with a Somewhat Bell Shape.jpg",
+     "activity": "Learn",
+     "label": "Histogram with a Somewhat Bell Shape",
+     "bytes": 28994
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Learn/03 - Histogram That is Skewed.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Learn/03 - Histogram That is Skewed.jpg",
+     "activity": "Learn",
+     "label": "Histogram That is Skewed",
+     "bytes": 28104
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Learn/04 - Histogram Showing an Outlier.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Learn/04 - Histogram Showing an Outlier.jpg",
+     "activity": "Learn",
+     "label": "Histogram Showing an Outlier",
+     "bytes": 28874
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 25715
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 25196
+    },
+    {
+     "path": "7.04c - Describing a Histogram Qualita/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/7.04c - Describing a Histogram Qualita/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 24422
+    }
+   ]
+  },
+  {
+   "page": "7-04d-describing-a-line-plot-qualitatively.html",
+   "heading": "7.04d",
+   "title": "Describing a Line Plot Qualitatively",
+   "folder": "7.04d - Describing a Line Plot Qualita",
+   "combined": {
+    "path": "7.04d - Describing a Line Plot Qualita/7.04d - all cards.pdf",
+    "bytes": 63652
+   },
+   "files": [
+    {
+     "path": "7.04d - Describing a Line Plot Qualita/Learn/01 - Sign - Describing a Line Plot Qualitatively.pdf",
+     "thumb": "thumbs/7.04d - Describing a Line Plot Qualita/Learn/01 - Sign - Describing a Line Plot Qualitatively.jpg",
+     "activity": "Learn",
+     "label": "Describing a Line Plot Qualitatively",
+     "bytes": 19529
+    },
+    {
+     "path": "7.04d - Describing a Line Plot Qualita/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.04d - Describing a Line Plot Qualita/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 30342
+    },
+    {
+     "path": "7.04d - Describing a Line Plot Qualita/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.04d - Describing a Line Plot Qualita/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 32468
+    },
+    {
+     "path": "7.04d - Describing a Line Plot Qualita/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/7.04d - Describing a Line Plot Qualita/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 31326
+    }
+   ]
+  },
+  {
+   "page": "7-05a-how-adding-or-removing-a-lower-value-affects-statistical-data.html",
+   "heading": "7.05a",
+   "title": "How Adding or Removing a Lower Value Affects Statistical Data",
+   "folder": "7.05a - How Adding or Removing a Lower",
+   "combined": {
+    "path": "7.05a - How Adding or Removing a Lower/7.05a - all cards.pdf",
+    "bytes": 26245
+   },
+   "files": [
+    {
+     "path": "7.05a - How Adding or Removing a Lower/Learn/01 - Sign - How Adding or Removing a Lower Value Affects Statistical Data.pdf",
+     "thumb": "thumbs/7.05a - How Adding or Removing a Lower/Learn/01 - Sign - How Adding or Removing a Lower Value Affects Statistical Data.jpg",
+     "activity": "Learn",
+     "label": "How Adding or Removing a Lower Value Affects Statistical Data",
+     "bytes": 20284
+    },
+    {
+     "path": "7.05a - How Adding or Removing a Lower/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.05a - How Adding or Removing a Lower/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the original data set.",
+     "bytes": 18206
+    },
+    {
+     "path": "7.05a - How Adding or Removing a Lower/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.05a - How Adding or Removing a Lower/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set for the 14 days.",
+     "bytes": 18735
+    },
+    {
+     "path": "7.05a - How Adding or Removing a Lower/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.05a - How Adding or Removing a Lower/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 18237
+    },
+    {
+     "path": "7.05a - How Adding or Removing a Lower/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.05a - How Adding or Removing a Lower/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of this data set and compare it to the data set of the original 10 friends.",
+     "bytes": 18650
+    }
+   ]
+  },
+  {
+   "page": "7-05b-how-adding-or-removing-an-upper-value-affects-statistical-data.html",
+   "heading": "7.05b",
+   "title": "How Adding or Removing an Upper Value Affects Statistical Data",
+   "folder": "7.05b - How Adding or Removing an Uppe",
+   "combined": {
+    "path": "7.05b - How Adding or Removing an Uppe/7.05b - all cards.pdf",
+    "bytes": 26876
+   },
+   "files": [
+    {
+     "path": "7.05b - How Adding or Removing an Uppe/Learn/01 - Sign - How Adding or Removing an Upper Value Affects Statistical Data.pdf",
+     "thumb": "thumbs/7.05b - How Adding or Removing an Uppe/Learn/01 - Sign - How Adding or Removing an Upper Value Affects Statistical Data.jpg",
+     "activity": "Learn",
+     "label": "How Adding or Removing an Upper Value Affects Statistical Data",
+     "bytes": 21364
+    },
+    {
+     "path": "7.05b - How Adding or Removing an Uppe/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.05b - How Adding or Removing an Uppe/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the original data set.",
+     "bytes": 18538
+    },
+    {
+     "path": "7.05b - How Adding or Removing an Uppe/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.05b - How Adding or Removing an Uppe/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set for the 14 days.",
+     "bytes": 19083
+    },
+    {
+     "path": "7.05b - How Adding or Removing an Uppe/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.05b - How Adding or Removing an Uppe/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 18579
+    },
+    {
+     "path": "7.05b - How Adding or Removing an Uppe/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.05b - How Adding or Removing an Uppe/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of this data set and compare it to the data set of the original 10 friends.",
+     "bytes": 18983
+    }
+   ]
+  },
+  {
+   "page": "7-05c-defining-outliers-and-their-effects-on-data.html",
+   "heading": "7.05c",
+   "title": "Defining Outliers and Their Effects on Data",
+   "folder": "7.05c - Defining Outliers and Their Ef",
+   "combined": {
+    "path": "7.05c - Defining Outliers and Their Ef/7.05c - all cards.pdf",
+    "bytes": 23513
+   },
+   "files": [
+    {
+     "path": "7.05c - Defining Outliers and Their Ef/Learn/01 - Sign - Defining Outliers and Their Effects on Data.pdf",
+     "thumb": "thumbs/7.05c - Defining Outliers and Their Ef/Learn/01 - Sign - Defining Outliers and Their Effects on Data.jpg",
+     "activity": "Learn",
+     "label": "Defining Outliers and Their Effects on Data",
+     "bytes": 18914
+    },
+    {
+     "path": "7.05c - Defining Outliers and Their Ef/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.05c - Defining Outliers and Their Ef/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 18016
+    },
+    {
+     "path": "7.05c - Defining Outliers and Their Ef/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.05c - Defining Outliers and Their Ef/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 18100
+    },
+    {
+     "path": "7.05c - Defining Outliers and Their Ef/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.05c - Defining Outliers and Their Ef/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 18238
+    },
+    {
+     "path": "7.05c - Defining Outliers and Their Ef/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.05c - Defining Outliers and Their Ef/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find the mean, median, and range of the data set.",
+     "bytes": 17828
+    }
+   ]
+  },
+  {
+   "page": "8-01a-the-coordinate-plane-and-plotting-points.html",
+   "heading": "8.01a",
+   "title": "The Coordinate Plane and Plotting Points",
+   "folder": "8.01a - The Coordinate Plane and Plott",
+   "combined": {
+    "path": "8.01a - The Coordinate Plane and Plott/8.01a - all cards.pdf",
+    "bytes": 162465
+   },
+   "files": [
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Warm-Up/01 - The Coordinate Plane.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Warm-Up/01 - The Coordinate Plane.jpg",
+     "activity": "Warm-Up",
+     "label": "The Coordinate Plane",
+     "bytes": 38175
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Warm-Up/02 - Example 1.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Warm-Up/02 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 34012
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Warm-Up/03 - Example 2.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Warm-Up/03 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 2",
+     "bytes": 24435
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Warm-Up/04 - Example 3.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Warm-Up/04 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 3",
+     "bytes": 24566
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Learn/01 - Sign - The Coordinate Plane and Plotting Points.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Learn/01 - Sign - The Coordinate Plane and Plotting Points.jpg",
+     "activity": "Learn",
+     "label": "The Coordinate Plane and Plotting Points",
+     "bytes": 18173
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Learn/02 - The Coordinate Plane.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Learn/02 - The Coordinate Plane.jpg",
+     "activity": "Learn",
+     "label": "The Coordinate Plane",
+     "bytes": 67525
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Learn/03 - Ordered Pairs or Coordinate Points.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Learn/03 - Ordered Pairs or Coordinate Points.jpg",
+     "activity": "Learn",
+     "label": "Ordered Pairs or Coordinate Points",
+     "bytes": 27584
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 31104
+    },
+    {
+     "path": "8.01a - The Coordinate Plane and Plott/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.01a - The Coordinate Plane and Plott/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 33659
+    }
+   ]
+  },
+  {
+   "page": "8-01b-lines-of-reflection-for-opposite-points.html",
+   "heading": "8.01b",
+   "title": "Lines of Reflection for Opposite Points",
+   "folder": "8.01b - Lines of Reflection for Opposi",
+   "combined": {
+    "path": "8.01b - Lines of Reflection for Opposi/8.01b - all cards.pdf",
+    "bytes": 121296
+   },
+   "files": [
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Warm-Up/01 - The Coordinate Plane.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Warm-Up/01 - The Coordinate Plane.jpg",
+     "activity": "Warm-Up",
+     "label": "The Coordinate Plane",
+     "bytes": 67960
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Warm-Up/02 - Ordered Pairs or Coordinate Points.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Warm-Up/02 - Ordered Pairs or Coordinate Points.jpg",
+     "activity": "Warm-Up",
+     "label": "Ordered Pairs or Coordinate Points",
+     "bytes": 28046
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Warm-Up/03 - Example 1.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Warm-Up/03 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 31616
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Learn/01 - Sign - Lines of Reflection for Opposite Points.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Learn/01 - Sign - Lines of Reflection for Opposite Points.jpg",
+     "activity": "Learn",
+     "label": "Lines of Reflection for Opposite Points",
+     "bytes": 18377
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 37536
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Examples/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Examples/02 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "What are the coordinates of the point (-4, 5) after it is reflected over the y-axis?",
+     "bytes": 21465
+    },
+    {
+     "path": "8.01b - Lines of Reflection for Opposi/Examples/03 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/8.01b - Lines of Reflection for Opposi/Examples/03 - Moment 2 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "If we reflect the point (-5, -6) over the x-axis, in which quadrant will the point be?",
+     "bytes": 21705
+    }
+   ]
+  },
+  {
+   "page": "8-02a-finding-the-distance-with-same-x-coordinate.html",
+   "heading": "8.02a",
+   "title": "Finding the Distance with Same x-coordinate",
+   "folder": "8.02a - Finding the Distance with Same",
+   "combined": {
+    "path": "8.02a - Finding the Distance with Same/8.02a - all cards.pdf",
+    "bytes": 26928
+   },
+   "files": [
+    {
+     "path": "8.02a - Finding the Distance with Same/Learn/01 - Sign - Finding the Distance with Same x-coordinate.pdf",
+     "thumb": "thumbs/8.02a - Finding the Distance with Same/Learn/01 - Sign - Finding the Distance with Same x-coordinate.jpg",
+     "activity": "Learn",
+     "label": "Finding the Distance with Same x-coordinate",
+     "bytes": 19413
+    },
+    {
+     "path": "8.02a - Finding the Distance with Same/Examples/01 - Moment 1 - Problem 1.pdf",
+     "thumb": "thumbs/8.02a - Finding the Distance with Same/Examples/01 - Moment 1 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Find the vertical distance between the points (3, 2) and (3, 8) using the graph shown.",
+     "bytes": 20708
+    },
+    {
+     "path": "8.02a - Finding the Distance with Same/Examples/02 - Moment 2 - Problem 2.pdf",
+     "thumb": "thumbs/8.02a - Finding the Distance with Same/Examples/02 - Moment 2 - Problem 2.jpg",
+     "activity": "Examples",
+     "label": "Calculate the vertical distance between the points (3, 5.5) and (3, 1.5) using algebra.",
+     "bytes": 21378
+    },
+    {
+     "path": "8.02a - Finding the Distance with Same/Examples/03 - Moment 3 - Problem 3.pdf",
+     "thumb": "thumbs/8.02a - Finding the Distance with Same/Examples/03 - Moment 3 - Problem 3.jpg",
+     "activity": "Examples",
+     "label": "Calculate the vertical distance between the points (3, -7.8) and (3, 2) using algebra.",
+     "bytes": 21131
+    },
+    {
+     "path": "8.02a - Finding the Distance with Same/Examples/04 - Moment 4 - Problem 4.pdf",
+     "thumb": "thumbs/8.02a - Finding the Distance with Same/Examples/04 - Moment 4 - Problem 4.jpg",
+     "activity": "Examples",
+     "label": "Calculate the vertical distance between the points (3, -11) and (3, -6) using algebra.",
+     "bytes": 21104
+    }
+   ]
+  },
+  {
+   "page": "8-02b-finding-the-distance-with-same-y-coordinate.html",
+   "heading": "8.02b",
+   "title": "Finding the Distance with Same y-coordinate",
+   "folder": "8.02b - Finding the Distance with Same",
+   "combined": {
+    "path": "8.02b - Finding the Distance with Same/8.02b - all cards.pdf",
+    "bytes": 26866
+   },
+   "files": [
+    {
+     "path": "8.02b - Finding the Distance with Same/Learn/01 - Sign - Finding the Distance with Same y-coordinate.pdf",
+     "thumb": "thumbs/8.02b - Finding the Distance with Same/Learn/01 - Sign - Finding the Distance with Same y-coordinate.jpg",
+     "activity": "Learn",
+     "label": "Finding the Distance with Same y-coordinate",
+     "bytes": 19681
+    },
+    {
+     "path": "8.02b - Finding the Distance with Same/Examples/01 - Moment 1 - Problem 1.pdf",
+     "thumb": "thumbs/8.02b - Finding the Distance with Same/Examples/01 - Moment 1 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Find the horizontal distance between the points (2, 5) and (8, 5) using the graph shown.",
+     "bytes": 20670
+    },
+    {
+     "path": "8.02b - Finding the Distance with Same/Examples/02 - Moment 2 - Problem 2.pdf",
+     "thumb": "thumbs/8.02b - Finding the Distance with Same/Examples/02 - Moment 2 - Problem 2.jpg",
+     "activity": "Examples",
+     "label": "Calculate the horizontal distance between the points (4.5, 3) and (1.5, 3) using algebra.",
+     "bytes": 21359
+    },
+    {
+     "path": "8.02b - Finding the Distance with Same/Examples/03 - Moment 3 - Problem 3.pdf",
+     "thumb": "thumbs/8.02b - Finding the Distance with Same/Examples/03 - Moment 3 - Problem 3.jpg",
+     "activity": "Examples",
+     "label": "Find the horizontal distance between the points (-3, 7) and (4, 7) using a graph.",
+     "bytes": 20810
+    },
+    {
+     "path": "8.02b - Finding the Distance with Same/Examples/04 - Moment 4 - Problem 4.pdf",
+     "thumb": "thumbs/8.02b - Finding the Distance with Same/Examples/04 - Moment 4 - Problem 4.jpg",
+     "activity": "Examples",
+     "label": "Calculate the horizontal distance between the points (-6, 2) and (-2, 2) using algebra.",
+     "bytes": 20468
+    }
+   ]
+  },
+  {
+   "page": "8-03a-plotting-points-to-solve-problems.html",
+   "heading": "8.03a",
+   "title": "Plotting Points to Solve Problems",
+   "folder": "8.03a - Plotting Points to Solve Probl",
+   "combined": {
+    "path": "8.03a - Plotting Points to Solve Probl/8.03a - all cards.pdf",
+    "bytes": 66096
+   },
+   "files": [
+    {
+     "path": "8.03a - Plotting Points to Solve Probl/Learn/01 - Sign - Plotting Points to Solve Problems.pdf",
+     "thumb": "thumbs/8.03a - Plotting Points to Solve Probl/Learn/01 - Sign - Plotting Points to Solve Problems.jpg",
+     "activity": "Learn",
+     "label": "Plotting Points to Solve Problems",
+     "bytes": 18911
+    },
+    {
+     "path": "8.03a - Plotting Points to Solve Probl/Examples/01 - Problem 1.pdf",
+     "thumb": "thumbs/8.03a - Plotting Points to Solve Probl/Examples/01 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Problem 1",
+     "bytes": 38295
+    },
+    {
+     "path": "8.03a - Plotting Points to Solve Probl/Examples/02 - Problem 2.pdf",
+     "thumb": "thumbs/8.03a - Plotting Points to Solve Probl/Examples/02 - Problem 2.jpg",
+     "activity": "Examples",
+     "label": "Problem 2",
+     "bytes": 29688
+    },
+    {
+     "path": "8.03a - Plotting Points to Solve Probl/Examples/03 - Problem 3.pdf",
+     "thumb": "thumbs/8.03a - Plotting Points to Solve Probl/Examples/03 - Problem 3.jpg",
+     "activity": "Examples",
+     "label": "Problem 3",
+     "bytes": 30658
+    }
+   ]
+  },
+  {
+   "page": "8-03b-solving-problems-involving-area-and-perimeter-in-the-coordinate-plane.html",
+   "heading": "8.03b",
+   "title": "Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+   "folder": "8.03b - Solving Problems Involving Are",
+   "combined": {
+    "path": "8.03b - Solving Problems Involving Are/8.03b - all cards.pdf",
+    "bytes": 37599
+   },
+   "files": [
+    {
+     "path": "8.03b - Solving Problems Involving Are/Learn/01 - Sign - Solving Problems Involving Area and Perimeter in the Coordinate Plane.pdf",
+     "thumb": "thumbs/8.03b - Solving Problems Involving Are/Learn/01 - Sign - Solving Problems Involving Area and Perimeter in the Coordinate Plane.jpg",
+     "activity": "Learn",
+     "label": "Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+     "bytes": 19474
+    },
+    {
+     "path": "8.03b - Solving Problems Involving Are/Examples/01 - Problem 1.pdf",
+     "thumb": "thumbs/8.03b - Solving Problems Involving Are/Examples/01 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Problem 1",
+     "bytes": 26364
+    },
+    {
+     "path": "8.03b - Solving Problems Involving Are/Examples/02 - Problem 1.pdf",
+     "thumb": "thumbs/8.03b - Solving Problems Involving Are/Examples/02 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Problem 1",
+     "bytes": 25906
+    }
+   ]
+  },
+  {
+   "page": "9-01a-area-of-triangles.html",
+   "heading": "9.01a",
+   "title": "Area of Triangles",
+   "folder": "9.01a - Area of Triangles",
+   "combined": {
+    "path": "9.01a - Area of Triangles/9.01a - all cards.pdf",
+    "bytes": 135188
+   },
+   "files": [
+    {
+     "path": "9.01a - Area of Triangles/Learn/01 - Sign - Area of Triangles.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Learn/01 - Sign - Area of Triangles.jpg",
+     "activity": "Learn",
+     "label": "Area of Triangles",
+     "bytes": 17773
+    },
+    {
+     "path": "9.01a - Area of Triangles/Learn/02 - Understanding the Formula.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Learn/02 - Understanding the Formula.jpg",
+     "activity": "Learn",
+     "label": "Understanding the Formula",
+     "bytes": 32176
+    },
+    {
+     "path": "9.01a - Area of Triangles/Learn/03 - Rectangle to Triangle.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Learn/03 - Rectangle to Triangle.jpg",
+     "activity": "Learn",
+     "label": "Rectangle to Triangle",
+     "bytes": 42490
+    },
+    {
+     "path": "9.01a - Area of Triangles/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 27323
+    },
+    {
+     "path": "9.01a - Area of Triangles/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 50340
+    },
+    {
+     "path": "9.01a - Area of Triangles/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/9.01a - Area of Triangles/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 48884
+    }
+   ]
+  },
+  {
+   "page": "9-01b-area-of-parallelograms.html",
+   "heading": "9.01b",
+   "title": "Area of Parallelograms",
+   "folder": "9.01b - Area of Parallelograms",
+   "combined": {
+    "path": "9.01b - Area of Parallelograms/9.01b - all cards.pdf",
+    "bytes": 111680
+   },
+   "files": [
+    {
+     "path": "9.01b - Area of Parallelograms/Learn/01 - Sign - Area of Parallelograms.pdf",
+     "thumb": "thumbs/9.01b - Area of Parallelograms/Learn/01 - Sign - Area of Parallelograms.jpg",
+     "activity": "Learn",
+     "label": "Area of Parallelograms",
+     "bytes": 17863
+    },
+    {
+     "path": "9.01b - Area of Parallelograms/Learn/02 - Decomposing a Parallelogram.pdf",
+     "thumb": "thumbs/9.01b - Area of Parallelograms/Learn/02 - Decomposing a Parallelogram.jpg",
+     "activity": "Learn",
+     "label": "Decomposing a Parallelogram",
+     "bytes": 53765
+    },
+    {
+     "path": "9.01b - Area of Parallelograms/Learn/03 - Finding the Area by Decomposing into Two Triangles and a Rectangle.pdf",
+     "thumb": "thumbs/9.01b - Area of Parallelograms/Learn/03 - Finding the Area by Decomposing into Two Triangles and a Rectangle.jpg",
+     "activity": "Learn",
+     "label": "Finding the Area by Decomposing into Two Triangles and a Rectangle",
+     "bytes": 37049
+    },
+    {
+     "path": "9.01b - Area of Parallelograms/Learn/04 - Step 1 Identify the shapes.pdf",
+     "thumb": "thumbs/9.01b - Area of Parallelograms/Learn/04 - Step 1 Identify the shapes.jpg",
+     "activity": "Learn",
+     "label": "Step 1: Identify the shapes",
+     "bytes": 35146
+    },
+    {
+     "path": "9.01b - Area of Parallelograms/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01b - Area of Parallelograms/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 36877
+    }
+   ]
+  },
+  {
+   "page": "9-01c-area-of-trapezoids.html",
+   "heading": "9.01c",
+   "title": "Area of Trapezoids",
+   "folder": "9.01c - Area of Trapezoids",
+   "combined": {
+    "path": "9.01c - Area of Trapezoids/9.01c - all cards.pdf",
+    "bytes": 104769
+   },
+   "files": [
+    {
+     "path": "9.01c - Area of Trapezoids/Learn/01 - Sign - Area of Trapezoids.pdf",
+     "thumb": "thumbs/9.01c - Area of Trapezoids/Learn/01 - Sign - Area of Trapezoids.jpg",
+     "activity": "Learn",
+     "label": "Area of Trapezoids",
+     "bytes": 17612
+    },
+    {
+     "path": "9.01c - Area of Trapezoids/Learn/02 - Breaking Down the Trapezoid.pdf",
+     "thumb": "thumbs/9.01c - Area of Trapezoids/Learn/02 - Breaking Down the Trapezoid.jpg",
+     "activity": "Learn",
+     "label": "Breaking Down the Trapezoid",
+     "bytes": 37665
+    },
+    {
+     "path": "9.01c - Area of Trapezoids/Learn/03 - Breaking Down the Trapezoid.pdf",
+     "thumb": "thumbs/9.01c - Area of Trapezoids/Learn/03 - Breaking Down the Trapezoid.jpg",
+     "activity": "Learn",
+     "label": "Breaking Down the Trapezoid",
+     "bytes": 40533
+    },
+    {
+     "path": "9.01c - Area of Trapezoids/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01c - Area of Trapezoids/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 35055
+    },
+    {
+     "path": "9.01c - Area of Trapezoids/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/9.01c - Area of Trapezoids/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 42938
+    }
+   ]
+  },
+  {
+   "page": "9-01d-area-of-composite-shapes.html",
+   "heading": "9.01d",
+   "title": "Area of Composite Shapes",
+   "folder": "9.01d - Area of Composite Shapes",
+   "combined": {
+    "path": "9.01d - Area of Composite Shapes/9.01d - all cards.pdf",
+    "bytes": 3392049
+   },
+   "files": [
+    {
+     "path": "9.01d - Area of Composite Shapes/Learn/01 - Sign - Area of Composite Shapes.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Learn/01 - Sign - Area of Composite Shapes.jpg",
+     "activity": "Learn",
+     "label": "Area of Composite Shapes",
+     "bytes": 17747
+    },
+    {
+     "path": "9.01d - Area of Composite Shapes/Learn/02 - Breaking Down Composite Shapes.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Learn/02 - Breaking Down Composite Shapes.jpg",
+     "activity": "Learn",
+     "label": "Breaking Down Composite Shapes",
+     "bytes": 52686
+    },
+    {
+     "path": "9.01d - Area of Composite Shapes/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 50510
+    },
+    {
+     "path": "9.01d - Area of Composite Shapes/Examples/02 - Example 1.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Examples/02 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 1455194
+    },
+    {
+     "path": "9.01d - Area of Composite Shapes/Examples/03 - Example 2.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Examples/03 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 42673
+    },
+    {
+     "path": "9.01d - Area of Composite Shapes/Examples/04 - Example 2.pdf",
+     "thumb": "thumbs/9.01d - Area of Composite Shapes/Examples/04 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 1890761
+    }
+   ]
+  },
+  {
+   "page": "9-02a-volume-of-a-rectangular-prism-using-a-model.html",
+   "heading": "9.02a",
+   "title": "Volume of a Rectangular Prism Using a Model",
+   "folder": "9.02a - Volume of a Rectangular Prism",
+   "combined": {
+    "path": "9.02a - Volume of a Rectangular Prism/9.02a - all cards.pdf",
+    "bytes": 137928
+   },
+   "files": [
+    {
+     "path": "9.02a - Volume of a Rectangular Prism/Learn/01 - Sign - Volume of a Rectangular Prism Using a Model.pdf",
+     "thumb": "thumbs/9.02a - Volume of a Rectangular Prism/Learn/01 - Sign - Volume of a Rectangular Prism Using a Model.jpg",
+     "activity": "Learn",
+     "label": "Volume of a Rectangular Prism Using a Model",
+     "bytes": 18934
+    },
+    {
+     "path": "9.02a - Volume of a Rectangular Prism/Learn/02 - Understanding the Model.pdf",
+     "thumb": "thumbs/9.02a - Volume of a Rectangular Prism/Learn/02 - Understanding the Model.jpg",
+     "activity": "Learn",
+     "label": "Understanding the Model",
+     "bytes": 41316
+    },
+    {
+     "path": "9.02a - Volume of a Rectangular Prism/Learn/03 - Step 1 Finding the Cubes in One Row.pdf",
+     "thumb": "thumbs/9.02a - Volume of a Rectangular Prism/Learn/03 - Step 1 Finding the Cubes in One Row.jpg",
+     "activity": "Learn",
+     "label": "Step 1: Finding the Cubes in One Row",
+     "bytes": 47692
+    },
+    {
+     "path": "9.02a - Volume of a Rectangular Prism/Learn/04 - Step 2 Finding the Number of Rows (Using Repeated Addition).pdf",
+     "thumb": "thumbs/9.02a - Volume of a Rectangular Prism/Learn/04 - Step 2 Finding the Number of Rows (Using Repeated Addition).jpg",
+     "activity": "Learn",
+     "label": "Step 2: Finding the Number of Rows (Using Repeated Addition)",
+     "bytes": 48633
+    },
+    {
+     "path": "9.02a - Volume of a Rectangular Prism/Learn/05 - Step 3 Stacking the Bases to Find the Height (Using Repeated Addition).pdf",
+     "thumb": "thumbs/9.02a - Volume of a Rectangular Prism/Learn/05 - Step 3 Stacking the Bases to Find the Height (Using Repeated Addition).jpg",
+     "activity": "Learn",
+     "label": "Step 3: Stacking the Bases to Find the Height (Using Repeated Addition)",
+     "bytes": 54343
+    }
+   ]
+  },
+  {
+   "page": "9-02b-volume-of-a-rectangular-prism.html",
+   "heading": "9.02b",
+   "title": "Volume of a Rectangular Prism",
+   "folder": "9.02b - Volume of a Rectangular Prism",
+   "combined": {
+    "path": "9.02b - Volume of a Rectangular Prism/9.02b - all cards.pdf",
+    "bytes": 34647
+   },
+   "files": [
+    {
+     "path": "9.02b - Volume of a Rectangular Prism/Learn/01 - Sign - Volume of a Rectangular Prism.pdf",
+     "thumb": "thumbs/9.02b - Volume of a Rectangular Prism/Learn/01 - Sign - Volume of a Rectangular Prism.jpg",
+     "activity": "Learn",
+     "label": "Volume of a Rectangular Prism",
+     "bytes": 18866
+    },
+    {
+     "path": "9.02b - Volume of a Rectangular Prism/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.02b - Volume of a Rectangular Prism/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 31352
+    }
+   ]
+  },
+  {
+   "page": "9-02c-surface-area-of-a-rectangular-prism.html",
+   "heading": "9.02c",
+   "title": "Surface Area of a Rectangular Prism",
+   "folder": "9.02c - Surface Area of a Rectangular",
+   "combined": {
+    "path": "9.02c - Surface Area of a Rectangular/9.02c - all cards.pdf",
+    "bytes": 2296450
+   },
+   "files": [
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Learn/01 - Sign - Surface Area of a Rectangular Prism.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Learn/01 - Sign - Surface Area of a Rectangular Prism.jpg",
+     "activity": "Learn",
+     "label": "Surface Area of a Rectangular Prism",
+     "bytes": 18644
+    },
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Learn/02 - What Is a Net.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Learn/02 - What Is a Net.jpg",
+     "activity": "Learn",
+     "label": "What Is a Net?",
+     "bytes": 37252
+    },
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 38015
+    },
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Examples/02 - Example 1.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Examples/02 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 1290460
+    },
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Examples/03 - Example 2.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Examples/03 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 34114
+    },
+    {
+     "path": "9.02c - Surface Area of a Rectangular/Examples/04 - Example 2.pdf",
+     "thumb": "thumbs/9.02c - Surface Area of a Rectangular/Examples/04 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 981687
+    }
+   ]
+  },
+  {
+   "page": "9-02d-surface-area-of-a-rectangular-pyramid.html",
+   "heading": "9.02d",
+   "title": "Surface Area of a Rectangular Pyramid",
+   "folder": "9.02d - Surface Area of a Rectangular",
+   "combined": {
+    "path": "9.02d - Surface Area of a Rectangular/9.02d - all cards.pdf",
+    "bytes": 101371
+   },
+   "files": [
+    {
+     "path": "9.02d - Surface Area of a Rectangular/Learn/01 - Sign - Surface Area of a Rectangular Pyramid.pdf",
+     "thumb": "thumbs/9.02d - Surface Area of a Rectangular/Learn/01 - Sign - Surface Area of a Rectangular Pyramid.jpg",
+     "activity": "Learn",
+     "label": "Surface Area of a Rectangular Pyramid",
+     "bytes": 19061
+    },
+    {
+     "path": "9.02d - Surface Area of a Rectangular/Learn/02 - What Is a Net.pdf",
+     "thumb": "thumbs/9.02d - Surface Area of a Rectangular/Learn/02 - What Is a Net.jpg",
+     "activity": "Learn",
+     "label": "What Is a Net?",
+     "bytes": 55986
+    },
+    {
+     "path": "9.02d - Surface Area of a Rectangular/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.02d - Surface Area of a Rectangular/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 57814
+    }
+   ]
+  }
+ ]
+}

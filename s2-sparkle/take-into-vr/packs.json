@@ -1,0 +1,1598 @@
+{
+ "module": "M/J Grade 6 Mathematics",
+ "note": "Semester 2 sparkle lessons (6.01a to 9.02d). Per lesson: a title sign, every picture the lesson shows, and each worked example's question when it is plain text. The owl logo, the teacher portrait and figures drawn in HTML are left out.",
+ "look": {
+  "accent": "#C7922C",
+  "paper": "#F6F7FC",
+  "ink": "#0E1C42",
+  "muted": "#5d6883"
+ },
+ "lessons": [
+  {
+   "page": "6-01a-translating-real-world-contexts-into-algebraic-expressions.html",
+   "heading": "6.01a",
+   "title": "Translating Real-World Contexts into Algebraic Expressions",
+   "folder": "6.01a - Translating Real-World Context",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Translating Real-World Contexts into Algebraic Expressions"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write an expression that represents the total amount of money you will spend on your garden.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write an expression to represent how much you could spend on books at the bookstore.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-01b-translating-mathematical-descriptions-into-algebraic-expressions.html",
+   "heading": "6.01b",
+   "title": "Translating Mathematical Descriptions into Algebraic Expressions",
+   "folder": "6.01b - Translating Mathematical Descr",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write a numerical expression for the verbal phrase \"twice the difference between 10 and 6, plus three.\"",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write a numerical expression for the verbal phrase \"3 more than the product of 4 and 5.\"",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write a numerical expression for the verbal phrase \"half the sum of 8 and 4 subtracted from 20.\"",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "\"The sum of a number and 7.\"",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write an algebraic expression for the given statement.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "\"Three times a number, increased by 5.\"",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "\"A number decreased by 2, then divided by 4.\"",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-01c-writing-descriptions-for-algebraic-expressions.html",
+   "heading": "6.01c",
+   "title": "Writing Descriptions for Algebraic Expressions",
+   "folder": "6.01c - Writing Descriptions for Algeb",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write an expression to represent how much you could spend on books at the bookstore.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "\"The sum of a number and 7.\"",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write an algebraic expression for the given statement.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "\"A number decreased by 2, then divided by 4.\"",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Writing Descriptions for Algebraic Expressions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-02a-the-distributive-property-on-algebraic-expressions.html",
+   "heading": "6.02a",
+   "title": "The Distributive Property on Algebraic Expressions",
+   "folder": "6.02a - The Distributive Property on A",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "The Distributive Property on Algebraic Expressions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-02b-combining-like-terms.html",
+   "heading": "6.02b",
+   "title": "Combining Like Terms",
+   "folder": "6.02b - Combining Like Terms",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Combining Like Terms"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Rewrite the algebraic expression by combining like terms.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Rewrite the algebraic expression by combining like terms.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Rewrite the algebraic expression by combining like terms.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-03a-interpreting-and-representing-an-algebraic-inequality.html",
+   "heading": "6.03a",
+   "title": "Interpreting and Representing an Algebraic Inequality",
+   "folder": "6.03a - Interpreting and Representing",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Interpreting and Representing an Algebraic Inequality"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph3.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph5.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph6.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph7.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-03b-translating-written-descriptions-into-algebraic-inequalities.html",
+   "heading": "6.03b",
+   "title": "Translating Written Descriptions into Algebraic Inequalities",
+   "folder": "6.03b - Translating Written Descriptio",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write an expression that represents the total amount of money you will spend on your garden.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "\"The sum of a number and 7.\"",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Write an algebraic expression for the given statement.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Translating Written Descriptions into Algebraic Inequalities"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M06L03bIMGEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03bIMGEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03bIMGEx3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-04a-determining-true-solutions-for-an-equation.html",
+   "heading": "6.04a",
+   "title": "Determining True Solutions for an Equation",
+   "folder": "6.04a - Determining True Solutions for",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Determining True Solutions for an Equation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-04b-determining-solution-sets-for-inequalities.html",
+   "heading": "6.04b",
+   "title": "Determining Solution Sets for Inequalities",
+   "folder": "6.04b - Determining Solution Sets for",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph5.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M06L03aIMGIneqGraph6.png",
+       "label": "Example 2"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Determining Solution Sets for Inequalities"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05a-solving-one-step-equations-with-addition-and-subtraction.html",
+   "heading": "6.05a",
+   "title": "Solving One-Step Equations with Addition and Subtraction",
+   "folder": "6.05a - Solving One-Step Equations wit",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Solving One-Step Equations with Addition and Subtraction"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05b-writing-and-solving-one-step-equations-with-addition-and-subtraction.html",
+   "heading": "6.05b",
+   "title": "Writing and Solving One-Step Equations with Addition and Subtraction",
+   "folder": "6.05b - Writing and Solving One-Step E",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write an expression that represents the total amount of money you will spend on your garden.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Writing and Solving One-Step Equations with Addition and Subtraction"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "After buying some apples for $3, you have $7 left. How much money did you have initially?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "After adding $20 to your savings account, you now have $70. How much money did you have before adding the $20?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "After reading 45 pages of a book, you have 75 pages left. How many pages does the book have in total?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05c-solving-one-step-equations-with-multiplication-and-division.html",
+   "heading": "6.05c",
+   "title": "Solving One-Step Equations with Multiplication and Division",
+   "folder": "6.05c - Solving One-Step Equations wit",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Solving One-Step Equations with Multiplication and Division"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Solve the given equation.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Solve the given equation.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Solve the given equation.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Solve the given equation.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05d-writing-and-solving-one-step-equations-with-multiplication-and-division.html",
+   "heading": "6.05d",
+   "title": "Writing and Solving One-Step Equations with Multiplication and Division",
+   "folder": "6.05d - Writing and Solving One-Step E",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Write an expression that represents the total amount of money you will spend on your garden.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Writing and Solving One-Step Equations with Multiplication and Division"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "You earn $8 per hour working at a job. If you earned $64 in total, how many hours did you work?",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-01a-identifying-and-creating-statistical-questions.html",
+   "heading": "7.01a",
+   "title": "Identifying and Creating Statistical Questions",
+   "folder": "7.01a - Identifying and Creating Stati",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Identifying and Creating Statistical Questions"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Review the following questions and decide if they are statistical or non-statistical:",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02a-finding-and-interpreting-mean-and-median.html",
+   "heading": "7.02a",
+   "title": "Finding and Interpreting Mean and Median",
+   "folder": "7.02a - Finding and Interpreting Mean",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean and median of the data set.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the mean and median.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding and Interpreting Mean and Median"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02b-finding-and-interpreting-mode-and-range.html",
+   "heading": "7.02b",
+   "title": "Finding and Interpreting Mode and Range",
+   "folder": "7.02b - Finding and Interpreting Mode",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mode of the data set. If there is more than one mode, list all modes as a set using commas to separate them.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mode of the data set. If there is more than one mode, list all modes as a set using commas to separate them.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding and Interpreting Mode and Range"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03a-creating-box-plots.html",
+   "heading": "7.03a",
+   "title": "Creating Box Plots",
+   "folder": "7.03a - Creating Box Plots",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Creating Box Plots"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L03aIMGBoxPlot1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L03aIMGBoxPlot2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L03aIMGBoxPlot3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03b-creating-histograms.html",
+   "heading": "7.03b",
+   "title": "Creating Histograms",
+   "folder": "7.03b - Creating Histograms",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Creating Histograms"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L03bIMGHistogram1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "He creates a histogram to display the data so that he can better analyze any trends or patterns in the rainfall.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-04a-generating-a-5-number-summary.html",
+   "heading": "7.04a",
+   "title": "Generating a 5 Number Summary",
+   "folder": "7.04a - Generating a 5 Number Summary",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Generating a 5 Number Summary"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L04aIMGBoxplot1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04aIMGBoxplot2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04aIMGBoxplot3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-04b-describing-spread-and-distribution-of-a-box-plot.html",
+   "heading": "7.04b",
+   "title": "Describing Spread and Distribution of a Box Plot",
+   "folder": "7.04b - Describing Spread and Distribu",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Describing Spread and Distribution of a Box Plot"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L04aIMGBoxplot1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04bIMGBoxplot2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04aIMGBoxplot3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-04c-describing-a-histogram-qualitatively.html",
+   "heading": "7.04c",
+   "title": "Describing a Histogram Qualitatively",
+   "folder": "7.04c - Describing a Histogram Qualita",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Describing a Histogram Qualitatively"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGNormalBell.png",
+       "label": "Histogram with a Somewhat Bell Shape"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGSkewed.png",
+       "label": "Histogram That is Skewed"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGOutlier.png",
+       "label": "Histogram Showing an Outlier"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGHistogram1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGHistogram2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04cIMGHistogram3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-04d-describing-a-line-plot-qualitatively.html",
+   "heading": "7.04d",
+   "title": "Describing a Line Plot Qualitatively",
+   "folder": "7.04d - Describing a Line Plot Qualita",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Describing a Line Plot Qualitatively"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M07L04dIMGLinePlot1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04dIMGLinePlot2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M07L04dIMGLinePlot3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-05a-how-adding-or-removing-a-lower-value-affects-statistical-data.html",
+   "heading": "7.05a",
+   "title": "How Adding or Removing a Lower Value Affects Statistical Data",
+   "folder": "7.05a - How Adding or Removing a Lower",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "How Adding or Removing a Lower Value Affects Statistical Data"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the original data set.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set for the 14 days.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of this data set and compare it to the data set of the original 10 friends.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-05b-how-adding-or-removing-an-upper-value-affects-statistical-data.html",
+   "heading": "7.05b",
+   "title": "How Adding or Removing an Upper Value Affects Statistical Data",
+   "folder": "7.05b - How Adding or Removing an Uppe",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "How Adding or Removing an Upper Value Affects Statistical Data"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the original data set.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set for the 14 days.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of this data set and compare it to the data set of the original 10 friends.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-05c-defining-outliers-and-their-effects-on-data.html",
+   "heading": "7.05c",
+   "title": "Defining Outliers and Their Effects on Data",
+   "folder": "7.05c - Defining Outliers and Their Ef",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining Outliers and Their Effects on Data"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and range of the data set.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01a-the-coordinate-plane-and-plotting-points.html",
+   "heading": "8.01a",
+   "title": "The Coordinate Plane and Plotting Points",
+   "folder": "8.01a - The Coordinate Plane and Plott",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPriorCoordinatePlane.png",
+       "label": "The Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPriorPlotting1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPriorPlotting2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPriorPlotting3.png",
+       "label": "Example 3"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "The Coordinate Plane and Plotting Points"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGCoordinatePlane.png",
+       "label": "The Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPlotting1.png",
+       "label": "Ordered Pairs or Coordinate Points"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPlotting2.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPlotting3.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01b-lines-of-reflection-for-opposite-points.html",
+   "heading": "8.01b",
+   "title": "Lines of Reflection for Opposite Points",
+   "folder": "8.01b - Lines of Reflection for Opposi",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGCoordinatePlane.png",
+       "label": "The Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPlotting1.png",
+       "label": "Ordered Pairs or Coordinate Points"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L01aIMGPlotting2.png",
+       "label": "Example 1"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Lines of Reflection for Opposite Points"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L01bIMGReflectX1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "What are the coordinates of the point (-4, 5) after it is reflected over the y-axis?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If we reflect the point (-5, -6) over the x-axis, in which quadrant will the point be?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02a-finding-the-distance-with-same-x-coordinate.html",
+   "heading": "8.02a",
+   "title": "Finding the Distance with Same x-coordinate",
+   "folder": "8.02a - Finding the Distance with Same",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding the Distance with Same x-coordinate"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the vertical distance between the points (3, 2) and (3, 8) using the graph shown.",
+       "short": "Problem 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the vertical distance between the points (3, 5.5) and (3, 1.5) using algebra.",
+       "short": "Problem 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the vertical distance between the points (3, -7.8) and (3, 2) using algebra.",
+       "short": "Problem 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the vertical distance between the points (3, -11) and (3, -6) using algebra.",
+       "short": "Problem 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02b-finding-the-distance-with-same-y-coordinate.html",
+   "heading": "8.02b",
+   "title": "Finding the Distance with Same y-coordinate",
+   "folder": "8.02b - Finding the Distance with Same",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding the Distance with Same y-coordinate"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the horizontal distance between the points (2, 5) and (8, 5) using the graph shown.",
+       "short": "Problem 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the horizontal distance between the points (4.5, 3) and (1.5, 3) using algebra.",
+       "short": "Problem 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the horizontal distance between the points (-3, 7) and (4, 7) using a graph.",
+       "short": "Problem 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the horizontal distance between the points (-6, 2) and (-2, 2) using algebra.",
+       "short": "Problem 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-03a-plotting-points-to-solve-problems.html",
+   "heading": "8.03a",
+   "title": "Plotting Points to Solve Problems",
+   "folder": "8.03a - Plotting Points to Solve Probl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Plotting Points to Solve Problems"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L03aIMGParktoLibrary.png",
+       "label": "Problem 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L03aIMGCofeetoBookstore.png",
+       "label": "Problem 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L03aRectangle.png",
+       "label": "Problem 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-03b-solving-problems-involving-area-and-perimeter-in-the-coordinate-plane.html",
+   "heading": "8.03b",
+   "title": "Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+   "folder": "8.03b - Solving Problems Involving Are",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Solving Problems Involving Area and Perimeter in the Coordinate Plane"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M08L03bIMGRectangle1.png",
+       "label": "Problem 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M08L03bIMGRectangle1a.png",
+       "label": "Problem 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01a-area-of-triangles.html",
+   "heading": "9.01a",
+   "title": "Area of Triangles",
+   "folder": "9.01a - Area of Triangles",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Triangles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT10M09L01aIMGRectangle.png",
+       "label": "Understanding the Formula"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01aIMGTriangleDerived.png",
+       "label": "Rectangle to Triangle"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L01aIMGTriEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01aIMGTriEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01aIMGTriEx3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01b-area-of-parallelograms.html",
+   "heading": "9.01b",
+   "title": "Area of Parallelograms",
+   "folder": "9.01b - Area of Parallelograms",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Parallelograms"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01bIMGParallelogram.png",
+       "label": "Decomposing a Parallelogram"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01bIMGParallelogramEx1.png",
+       "label": "Finding the Area by Decomposing into Two Triangles and a Rectangle"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01bIMGParallelogramEx1Decomp.png",
+       "label": "Step 1: Identify the shapes"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L01bIMGParallelogramEx2.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01c-area-of-trapezoids.html",
+   "heading": "9.01c",
+   "title": "Area of Trapezoids",
+   "folder": "9.01c - Area of Trapezoids",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Trapezoids"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01cIMGTrapezoid.png",
+       "label": "Breaking Down the Trapezoid"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01cIMGTrapezoidBreakDown.png",
+       "label": "Breaking Down the Trapezoid"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L01cIMGTrapezoidEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01cIMGTrapezoidEx2.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01d-area-of-composite-shapes.html",
+   "heading": "9.01d",
+   "title": "Area of Composite Shapes",
+   "folder": "9.01d - Area of Composite Shapes",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Composite Shapes"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01dIMGCompositeShape1.png",
+       "label": "Breaking Down Composite Shapes"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L01dIMGCompositeShape1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01dIMGExample1Ans.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01dIMGCompositeEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L01dIMGExample2Ans.jpg",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02a-volume-of-a-rectangular-prism-using-a-model.html",
+   "heading": "9.02a",
+   "title": "Volume of a Rectangular Prism Using a Model",
+   "folder": "9.02a - Volume of a Rectangular Prism",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Volume of a Rectangular Prism Using a Model"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02aIMG3DLessonModel.png",
+       "label": "Understanding the Model"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02aIMGModelStep1.png",
+       "label": "Step 1: Finding the Cubes in One Row"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02aIMGModelStep2.png",
+       "label": "Step 2: Finding the Number of Rows (Using Repeated Addition)"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02aIMGModelStep3.png",
+       "label": "Step 3: Stacking the Bases to Find the Height (Using Repeated Addition)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02b-volume-of-a-rectangular-prism.html",
+   "heading": "9.02b",
+   "title": "Volume of a Rectangular Prism",
+   "folder": "9.02b - Volume of a Rectangular Prism",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Volume of a Rectangular Prism"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L02bIMGLessonPrismEx.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02c-surface-area-of-a-rectangular-prism.html",
+   "heading": "9.02c",
+   "title": "Surface Area of a Rectangular Prism",
+   "folder": "9.02c - Surface Area of a Rectangular",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Surface Area of a Rectangular Prism"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02cIMGPrismNet.png",
+       "label": "What Is a Net?"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06M09L02cIMGPrismNet.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02cIMGExample1Ans.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06U09L02bIMGExample1.jpg",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06M09L02cIMGExample2Ans.jpg",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02d-surface-area-of-a-rectangular-pyramid.html",
+   "heading": "9.02d",
+   "title": "Surface Area of a Rectangular Pyramid",
+   "folder": "9.02d - Surface Area of a Rectangular",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Surface Area of a Rectangular Pyramid"
+      },
+      {
+       "type": "picture",
+       "img": "MAT06U09L03IMGPyramidNet1.jpg",
+       "label": "What Is a Net?"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT06U09L03IMGPyramidNet2.jpg",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
